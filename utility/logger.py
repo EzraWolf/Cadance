@@ -2,23 +2,11 @@
 import datetime as dt
 
 
-def log(
-    msg: str,
-    type: str = 'stock'
-) -> None:
-    pass
-
-
-def log_error() -> None:
-    pass
-
-
-def log_warning() -> None:
-    pass
-
-
 class Log(object):
-
+    '''
+    A simple logger made to streamline
+    understandable and concise logging
+    '''
     def __init__(
         self,
         name: str,
@@ -30,10 +18,10 @@ class Log(object):
         self._path = f'{path}/{name}'
 
     def default(self, type: str = None, is_print: bool = False) -> None:
-        """
+        '''
         The default / goto logging method.
         This function handles the blunt of the logging efforts.
-        """
+        '''
 
         if type:
             if len(type) > 15:
@@ -64,13 +52,13 @@ class Log(object):
             print('{:15} {}'.format(type.upper(), self._msg))
 
     def normal(self, is_print: bool = False) -> None:
-        """A preset for logging normal events"""
+        '''A preset for logging normal events'''
         self.default('normal', is_print)
 
     def warning(self, is_print: bool = False) -> None:
-        """A preset for logging warnings / small issues"""
+        '''A preset for logging warnings / small issues'''
         self.default('warning', is_print)
 
     def critical(self, is_print: bool = False) -> None:
-        """A preset for logging software-breaking issues"""
+        '''A preset for logging software-breaking issues'''
         self.default('critical', is_print)

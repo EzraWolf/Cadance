@@ -1,4 +1,4 @@
-Symbol,Company Name,Industry,Market Cap
+SYMBOL,NAME,INDUSTRY,MARKET_CAP
 A,Agilent Technologies,Life Sciences Tools & Services,39414517697
 AA,Alcoa,Metals & Mining,9584604110
 AAC,Ares Acquisition,Blank Check / SPAC,1235000059
@@ -45,7 +45,6 @@ ABVC,ABVC BioPharma,Biotechnology,18415159
 AC,Associated Capital Group,Capital Markets,890573111
 ACA,Arcosa,Construction & Engineering,3081327092
 ACAB,Atlantic Coastal Acquisition II,Blank Check / SPAC,300300000
-ACAC,Acri Capital Acquisition,Blank Check / SPAC,93750000
 ACAD,ACADIA Pharmaceuticals,Biotechnology,2547408882
 ACAH,Atlantic Coastal Acquisition,Blank Check / SPAC,423487480
 ACAQ,Athena Consumer Acquisition,Blank Check / SPAC,323026620
@@ -112,7 +111,6 @@ ADOC,Edoc Acquisition,Blank Check / SPAC,56744196
 ADP,Automatic Data Processing,IT Services,1.03975E+11
 ADPT,Adaptive Biotechnologies,Life Sciences Tools & Services,1805771004
 ADRA,Adara Acquisition,Blank Check / SPAC,142887490
-ADRT,Ault Disruptive Technologies,Blank Check / SPAC,144756239
 ADSE,ADS-TEC Energy Public Limited Company,Electrical Equipment & Parts,390951279
 ADSK,Autodesk,Software,49377234720
 ADT,ADT Inc.,Commercial Services & Supplies,7319159804
@@ -151,7 +149,6 @@ AEYE,AudioEye,Software,78132680
 AEZS,AEterna Zentaris,Biotechnology,24133718
 AFAC,Arena Fortify Acquisition,Blank Check / SPAC,217565625
 AFAQ,AF Acquisition,Blank Check / SPAC,275240000
-AFAR,Aura FAT Projects Acquisition,Blank Check / SPAC,143450990
 AFBI,Affinity Bancshares,Banks,96548759
 AFCG,AFC Gamma,REIT-Specialty,357346490
 AFG,American Financial Group,Insurance,11308701684
@@ -178,7 +175,6 @@ AGIO,Agios Pharmaceuticals,Biotechnology,1424719742
 AGL,agilon health,Medical Care Facilities,10581602283
 AGLE,Aeglea Biotherapeutics,Biotechnology,30580133
 AGM,Federal Agricultural Mortgage,Thrifts & Mortgage Finance,1216431344
-AGM.A,Federal Agricultural Mortgage,Credit Services,1202273280
 AGMH,AGM Group Holdings,Capital Markets,44847123
 AGNC,AGNC Investment,Mortgage Real Estate Investment Trust...,6628127741
 AGO,Assured Guaranty,Insurance,3369068783
@@ -197,10 +193,8 @@ AHH,Armada Hoffler Properties,Equity Real Estate Investment Trusts ...,123677120
 AHI,Advanced Human Imaging,Software-Application,16908963
 AHPA,Avista Public Acquisition II,Blank Check / SPAC,290949979
 AHPI,Allied Healthcare Products,Health Care Equipment & Supplies,8548840
-AHRN,Ahren Acquisition,Blank Check / SPAC,374248004
 AHT,Ashford Hospitality Trust,Equity Real Estate Investment Trusts ...,417668568
 AI,C3.ai,Software,2484547316
-AIB,AIB Acquisition,Blank Check / SPAC,112409468
 AIG,American International Group,Insurance,42834235364
 AIH,Aesthetic Medical International Holdings Group,Health Care Providers & Services,64174699
 AIHS,Senmiao Technology,Consumer Finance,6503017
@@ -225,11 +219,8 @@ AJRD,Aerojet Rocketdyne Holdings,Aerospace & Defense,3326895082
 AJX,Great Ajax,Mortgage Real Estate Investment Trust...,240971930
 AKA,a.k.a. Brands Holding,Internet Retail,261169647
 AKAM,Akamai Technologies,IT Services,15017371556
-AKAN,Akanda,Drug Manufacturers-Specialty & Generic,31733270
 AKBA,Akebia Therapeutics,Biotechnology,73282207
 AKIC,Sports Ventures Acquisition,Blank Check / SPAC,291158970
-AKO.A,Embotelladora Andina,Beverages-Non-Alcoholic,1569959418
-AKO.B,Embotelladora Andina,Beverages-Non-Alcoholic,1748002993
 AKR,Acadia Realty Trust,Equity Real Estate Investment Trusts ...,1736052862
 AKRO,Akero Therapeutics,Biotechnology,475278197
 AKTS,Akoustis Technologies,"Electronic Equipment, Instruments & C...",273658077
@@ -287,7 +278,6 @@ ALTO,Alto Ingredients,"Oil, Gas & Consumable Fuels",368027230
 ALTR,Altair Engineering,Software,4422623728
 ALTU,Altitude Acquisition,Blank Check / SPAC,373124990
 ALV,Autoliv,Auto Components,7345144791
-ALVO,Alvotech,Drug Manufacturers-Specialty & Generic,1897199484
 ALVR,AlloVir,Biotechnology,619802237
 ALX,Alexander's,Equity Real Estate Investment Trusts ...,1322685964
 ALXO,ALX Oncology Holdings,Biotechnology,528897332
@@ -367,11 +357,9 @@ ANNX,Annexon,Biotechnology,267611468
 ANPC,AnPac Bio-Medical Science Co.,Biotechnology,9304690
 ANSS,ANSYS,Software,24391427859
 ANTE,AirNet Technology,Media,35341323
-ANTX,AN2 Therapeutics,Biotechnology,228369790
 ANVS,Annovis Bio,Biotechnology,99109988
 ANY,Sphere 3D,Software,50555047
 ANZU,Anzu Special Acquisition I,Blank Check / SPAC,522218750
-AOGO,Arogo Capital Acquisition,Blank Check / SPAC,116363011
 AOMR,Angel Oak Mortgage,REIT-Mortgage,380889144
 AON,Aon plc,Insurance,62579634049
 AORT,Artivion,Medical Devices,877278336
@@ -382,7 +370,6 @@ AP,Ampco-Pittsburgh,Metals & Mining,84987334
 APA,APA Corporation,"Oil, Gas & Consumable Fuels",11376305130
 APAC,Stonebridge Acquisition,Blank Check / SPAC,250500000
 APAM,Artisan Partners Asset Management,Capital Markets,2586625260
-APCA,AP Acquisition,Blank Check / SPAC,172677318
 APCX,AppTech Payments,Software-Infrastructure,11597202
 APD,Air Products & Chemicals,Chemicals,58734595838
 APDN,Applied DNA Sciences,"Electronic Equipment, Instruments & C...",53347299
@@ -481,8 +468,6 @@ ASAQ,Atlantic Street Acquisition,Blank Check / SPAC,311250009
 ASAX,Astrea Acquisition,Blank Check / SPAC,217510115
 ASB,Associated Banc-Corp,Banks,3157907965
 ASC,Ardmore Shipping,"Oil, Gas & Consumable Fuels",358830492
-ASCA,A SPAC I Acquisition,Blank Check / SPAC,86418360
-ASCB,A SPAC II Acquisition,Blank Check / SPAC,250976000
 ASGN,ASGN Incorporated,Professional Services,5199214000
 ASH,Ashland Global Holdings,Chemicals,5693840382
 ASIX,AdvanSix,Chemicals,1100122737
@@ -492,7 +477,6 @@ ASM,Avino Silver & Gold Mines,Metals & Mining,73834951
 ASMB,Assembly Biosciences,Biotechnology,102201854
 ASML,ASML Holding,Semiconductors & Semiconductor Equipment,2.35392E+11
 ASND,Ascendis Pharma,Biotechnology,5970511816
-ASNS,Actelis Networks,Biotechnology,24977232
 ASO,Academy Sports and Outdoors,Specialty Retail,3957001200
 ASPA,Abri SPAC I,Blank Check / SPAC,74694620
 ASPN,Aspen Aerogels,Energy Equipment & Services,549993533
@@ -513,10 +497,8 @@ ASYS,Amtech Systems,Semiconductors & Semiconductor Equipment,120137246
 ASZ,Austerlitz Acquisition II,Blank Check / SPAC,1928058618
 ATA,Americas Technology Acquisition,Blank Check / SPAC,150800000
 ATAI,ATAI Life Sciences,Biotechnology,712047101
-ATAK,Aurora Technology Acquisition,Blank Check / SPAC,251994990
 ATAQ,Altimar Acquisition III,Blank Check / SPAC,191539174
 ATAX,America First Multifamily Investors LP,Thrifts & Mortgage Finance,433092093
-ATC,Atotech,Electronic Components,4400739822
 ATCO,Atlas,Marine,3937513972
 ATCX,Atlas Technical Consultants,Engineering & Construction,293444542
 ATEC,Alphatec Holdings,Health Care Equipment & Supplies,932484924
@@ -567,7 +549,6 @@ AUR,Aurora Innovation,Information Technology Services,3653718526
 AURA,Aura Biosciences,Biotechnology,510294382
 AURC,Aurora Acquisition,Blank Check / SPAC,342638944
 AUS,Austerlitz Acquisition I,Blank Check / SPAC,965999739
-AUST,Austin Gold,Gold,24021958
 AUTL,Autolus Therapeutics,Biotechnology,314547901
 AUTO,AutoWeb,Interactive Media & Services,5437774
 AUUD,Auddia,Software-Application,13390836
@@ -612,7 +593,6 @@ AWR,American States Water Company,Water Utilities,3237045936
 AWRE,Aware,Software,48685501
 AWX,Avalon Holdings,Commercial Services & Supplies,10918404
 AX,Axos Financial,Thrifts & Mortgage Finance,2694787822
-AXAC,AXIOS Sustainable Growth Acquisition,Blank Check / SPAC,197427500
 AXDX,Accelerate Diagnostics,Life Sciences Tools & Services,170787615
 AXGN,Axogen,Health Care Equipment & Supplies,424528347
 AXH,Industrial Human Capital,Blank Check / SPAC,145043750
@@ -684,14 +664,12 @@ BBLN,Babylon Holdings,Health Information Services,334298783
 BBQ,BBQ Holdings,"Hotels, Restaurants & Leisure",184212912
 BBSI,Barrett Business Services,Professional Services,590912364
 BBU,Brookfield Business Partners,Construction & Engineering,1869746547
-BBUC,Brookfield Business,Asset Management,2756529831
 BBVA,Banco Bilbao Vizcaya Argentaria,Banks,31014342651
 BBW,Build-A-Bear Workshop,Specialty Retail,274483548
 BBWI,Bath & Body Works,Specialty Retail,8958492667
 BBY,Best Buy Co.,Specialty Retail,18108010479
 BC,Brunswick,Leisure Products,6238848966
 BCAB,BioAtla,Biotechnology,298252987
-BCAN,BYND Cannasoft Enterprises,Software-Infrastructure,139419804
 BCBP,BCB Bancorp,Banks,331486688
 BCC,Boise Cascade Company,Paper & Forest Products,2814593252
 BCDA,BioCardia,Biotechnology,27477922
@@ -732,9 +710,6 @@ BEP,Brookfield Renewable Partners,Independent Power and Renewable Elect...,25357
 BEPC,Brookfield Renewable,Independent Power and Renewable Elect...,7233324000
 BERY,Berry Global Group,Containers & Packaging,7352126941
 BEST,BEST Inc.,Air Freight & Logistics,117750000
-BF.A,Brown-Forman,Beverages,35809951673
-BF.B,Brown-Forman,Beverages,35770212324
-BFAC,Battery Future Acquisition,Blank Check / SPAC,430387480
 BFAM,Bright Horizons Family Solutions,Diversified Consumer Services,4446236626
 BFC,Bank First,Banks,572966143
 BFH,Bread Financial Holdings,Credit Services,2196201718
@@ -753,9 +728,7 @@ BGRY,Berkshire Grey,Specialty Industrial Machinery,509681854
 BGS,B&G Foods,Food Products,1668484723
 BGSF,BG Staffing,Professional Services,138050574
 BGSX,Build Acquisition,Blank Check / SPAC,245750000
-BGXX,Bright Green,Drug Manufacturers-Specialty & Generic,193379790
 BH,Biglari Holdings,"Hotels, Restaurants & Leisure",406389036
-BH.A,Biglari Holdings,Restaurants,404669850
 BHAC,Crixus BH3 Acquisition,Blank Check / SPAC,285487519
 BHAT,Blue Hat Interactive Entertainment Technology,Entertainment,16267089
 BHB,Bar Harbor Bankshares,Banks,447100521
@@ -811,8 +784,6 @@ BL,BlackLine,Software,4050096632
 BLBD,Blue Bird,Machinery,373653723
 BLBX,Blackboxstocks,Software-Application,17405124
 BLCM,Bellicum Pharmaceuticals,Biotechnology,12225715
-BLCO,Bausch + Lomb,Medical Instruments & Supplies,5782000115
-BLCT,BlueCity Holdings,Internet Content & Information,57699180
 BLD,TopBuild,Household Durables,6525947341
 BLDE,Blade Air Mobility,Airlines,450736506
 BLDP,Ballard Power Systems,Electrical Equipment,2579049209
@@ -831,7 +802,6 @@ BLNK,Blink Charging Co.,Specialty Retail,1250750075
 BLPH,Bellerophon Therapeutics,Health Care Equipment & Supplies,13268174
 BLRX,BioLineRx,Biotechnology,84278656
 BLSA,BCLS Acquisition,Blank Check / SPAC,183639180
-BLTE,Belite Bio,Biotechnology,741412411
 BLTS,Bright Lights Acquisition,Blank Check / SPAC,284337500
 BLU,BELLUS Health,Biotechnology,1399318777
 BLUA,BlueRiver Acquisition,Blank Check / SPAC,354703134
@@ -858,7 +828,6 @@ BNL,Broadstone Net Lease,Equity Real Estate Investment Trusts ...,3630430956
 BNNR,Banner Acquisition,Blank Check / SPAC,194678027
 BNOX,Bionomics,Biotechnology,50198589
 BNR,Burning Rock Biotech,Diagnostics & Research,367106109
-BNRG,Brenmiller Energy,Utilities-Renewable,59601960
 BNS,The Bank of Nova Scotia,Banks,74461921248
 BNSO,Bonso Electronics International,"Electronic Equipment, Instruments & C...",25257388
 BNTC,Benitec Biopharma,Biotechnology,7075048
@@ -866,7 +835,6 @@ BNTX,BioNTech SE,Biotechnology,38540382099
 BOAC,Bluescape Opportunities Acquisition,Blank Check / SPAC,756337529
 BOAS,BOA Acquisition,Blank Check / SPAC,283043740
 BOC,Boston Omaha,Advertising Agencies,805420608
-BOCN,Blue Ocean Acquisition,Blank Check / SPAC,236476445
 BODY,The Beachbody Company,Internet Content & Information,426774143
 BOH,Bank of Hawaii,Banks,3311866293
 BOKF,BOK Financial,Banks,6341216745
@@ -891,12 +859,10 @@ BPTH,Bio-Path Holdings,Biotechnology,29643058
 BPTS,Biophytis,Biotechnology,18348286
 BQ,Boqii Holding,Specialty Retail,35090611
 BR,Broadridge Financial Solutions,IT Services,19896938370
-BRAC,Broad Capital Acquisition,Blank Check / SPAC,112053974
 BRAG,Bragg Gaming Group,Electronic Gaming & Multimedia,126635388
 BRBR,Bellring Brands,Personal Products,3308004344
 BRBS,Blue Ridge Bankshares,Banks,284798774
 BRC,Brady,Commercial Services & Supplies,2460557043
-BRCC,BRC Inc.,Food Products,506931094
 BRCN,Burcon NutraScience,Packaged Foods,75475647
 BRD,Beard Energy Transition Acquisition,Blank Check / SPAC,286374909
 BRDG,Bridge Investment Group Holdings,Asset Management,2808813809
@@ -907,8 +873,6 @@ BRFS,BRF S.A.,Food Products,3102969853
 BRG,Bluerock Residential Growth REIT,Equity Real Estate Investment Trusts ...,946650351
 BRID,Bridgford Foods,Food Products,127887996
 BRIV,B. Riley Principal 250 Merger,Blank Check / SPAC,216970874
-BRK.A,Berkshire Hathaway,Diversified Financial Services,6.52831E+11
-BRK.B,Berkshire Hathaway,Diversified Financial Services,6.52934E+11
 BRKH,BurTech Acquisition,Blank Check / SPAC,395274330
 BRKL,Brookline Bancorp,Banks,1064373947
 BRKR,Bruker,Life Sciences Tools & Services,9184556000
@@ -921,7 +885,6 @@ BROG,Brooge Energy,"Oil, Gas & Consumable Fuels",807663545
 BROS,Dutch Bros,"Hotels, Restaurants & Leisure",7577858530
 BRP,BRP Group,Insurance,1908567936
 BRQS,Borqs Technologies,"Technology Hardware, Storage & Periph...",25737551
-BRSH,Bruush Oral Care,Household & Personal Products,14907629
 BRSP,BrightSpire Capital,REIT-Diversified,1138760958
 BRT,BRT Apartments,Equity Real Estate Investment Trusts ...,448320312
 BRTX,BioRestorative Therapies,Biotechnology,10803639
@@ -975,7 +938,6 @@ BVXV,BiondVax Pharmaceuticals,Pharmaceuticals,22723964
 BW,Babcock & Wilcox Enterprises,Electrical Equipment,705548859
 BWA,BorgWarner,Auto Components,9414032369
 BWAC,Better World Acquisition,Blank Check / SPAC,109185144
-BWAQ,Blue World Acquisition,Blank Check / SPAC,119525345
 BWAY,Brainsway,Health Care Equipment & Supplies,91431712
 BWB,Bridgewater Bancshares,Thrifts & Mortgage Finance,480443600
 BWC,Blue Whale Acquisition I,Blank Check / SPAC,247505948
@@ -983,7 +945,6 @@ BWEN,Broadwind,Electrical Equipment,57933210
 BWFG,Bankwell Financial Group,Banks,259064290
 BWMN,Bowman Consulting Group,Consulting Services,194187095
 BWMX,Betterware de Mexico,Internet & Direct Marketing Retail,394808570
-BWV,Blue Water Vaccines,Biotechnology,29518560
 BWXT,BWX Technologies,Aerospace & Defense,4913784318
 BX,Blackstone,Capital Markets,1.27631E+11
 BXC,BlueLinx Holdings,Trading Companies & Distributors,712965705
@@ -993,9 +954,7 @@ BXRX,Baudax Bio,Biotechnology,4921118
 BY,Byline Bancorp,Banks,894838329
 BYD,Boyd Gaming,"Hotels, Restaurants & Leisure",6046188497
 BYFC,Broadway Financial,Thrifts & Mortgage Finance,83059743
-BYN,Banyan Acquisition,Blank Check / SPAC,269730000
 BYND,Beyond Meat,Food Products,2333167080
-BYNO,byNordic Acquisition,Blank Check / SPAC,207874500
 BYRN,Byrna Technologies,Aerospace & Defense,197905722
 BYSI,BeyondSpring,Biotechnology,59171928
 BYTS,BYTE Acquisition,Blank Check / SPAC,409107166
@@ -1105,7 +1064,6 @@ CDLX,Cardlytics,Media,546694972
 CDMO,Avid Bioservices,Biotechnology,1173004145
 CDNA,CareDx,Biotechnology,1229536254
 CDNS,Cadence Design Systems,Software,51035680649
-CDR,Cedar Realty Trust,Equity Real Estate Investment Trusts ...,393844456
 CDRE,Cadre Holdings,Aerospace & Defense,993946932
 CDRO,Codere Online Luxembourg,Gambling,135366000
 CDTX,Cidara Therapeutics,Biotechnology,43501187
@@ -1143,7 +1101,6 @@ CFBK,CF Bankshares,Thrifts & Mortgage Finance,134944368
 CFFE,CF Acquisition VIII,Blank Check / SPAC,293726616
 CFFI,C&F Financial,Banks,180213248
 CFFN,Capitol Federal Financial,Thrifts & Mortgage Finance,1369149818
-CFFS,CF Acquisition VII,Blank Check / SPAC,223026750
 CFG,Citizens Financial Group,Banks,19518423033
 CFIV,CF Acquisition IV,Blank Check / SPAC,628015039
 CFLT,Confluent,Software-Infrastructure,8726290414
@@ -1170,7 +1127,6 @@ CHCT,Community Healthcare Trust,Equity Real Estate Investment Trusts ...,1012003
 CHD,Church & Dwight Company,Household Products,21276397558
 CHDN,Churchill Downs,"Hotels, Restaurants & Leisure",8014175089
 CHE,Chemed,Health Care Providers & Services,7211735865
-CHEA,Chenghe Acquisition Co.,Blank Check / SPAC,144181239
 CHEF,The Chefs' Warehouse,Food & Staples Retailing,1275235830
 CHEK,Check-Cap,Health Care Equipment & Supplies,40057367
 CHGG,Chegg,Diversified Consumer Services,2792153843
@@ -1212,7 +1168,6 @@ CIO,City Office REIT,Equity Real Estate Investment Trusts ...,548762293
 CION,CĪON Investment,Asset Management,559331448
 CIR,CIRCOR International,Machinery,387703675
 CISO,Cerberus Cyber Sentinel,Software-Infrastructure,415628800
-CITE,Cartica Acquisition,Blank Check / SPAC,289224979
 CIVB,Civista Bancshares,Banks,350792960
 CIVI,Civitas Resources,Oil & Gas E&P,5414837760
 CIX,CompX International,Commercial Services & Supplies,319371840
@@ -1240,7 +1195,6 @@ CLFD,Clearfield,Communications Equipment,1591737681
 CLGN,CollPlant Biotechnologies,Biotechnology,105210875
 CLH,Clean Harbors,Commercial Services & Supplies,6220786165
 CLIM,Climate Real Impact Solutions II Acquisition,Blank Check / SPAC,298252509
-CLIN,Clean Earth Acquisitions,Blank Check / SPAC,291720003
 CLIR,ClearSign Technologies,"Electronic Equipment, Instruments & C...",42505792
 CLLS,Cellectis,Biotechnology,171575708
 CLMT,Calumet Specialty Products Partners,"Oil, Gas & Consumable Fuels",1252946035
@@ -1253,7 +1207,6 @@ CLPS,CLPS Incorporation,IT Services,39585392
 CLPT,ClearPoint Neuro,Health Care Equipment & Supplies,391078135
 CLR,Continental Resources,"Oil, Gas & Consumable Fuels",24890978295
 CLRB,Cellectar BioSciences,Biotechnology,35744196
-CLRC,ClimateRock,Blank Check / SPAC,99066911
 CLRM,Clarim Acquisition,Blank Check / SPAC,354343740
 CLRO,ClearOne,Communications Equipment,16773598
 CLS,Celestica,"Electronic Equipment, Instruments & C...",1380916477
@@ -1376,7 +1329,6 @@ CP,Canadian Pacific Railway,Road & Rail,75044298672
 CPA,Copa Holdings,Airlines,2903471042
 CPAA,Conyers Park III Acquisition,Blank Check / SPAC,434647480
 CPAC,Cementos Pacasmayo,Construction Materials,431531835
-CPAQ,Counter Press Acquisition,Blank Check / SPAC,113031919
 CPAR,Catalyst Partners Acquisition,Blank Check / SPAC,440586720
 CPB,Campbell Soup Company,Food Products,15055851489
 CPE,Callon Petroleum Company,"Oil, Gas & Consumable Fuels",2509733336
@@ -1407,8 +1359,6 @@ CRBP,Corbus Pharmaceuticals Holdings,Biotechnology,34676059
 CRBU,Caribou Biosciences,Biotechnology,571291384
 CRC,California Resources,"Oil, Gas & Consumable Fuels",3425067264
 CRCT,Cricut,Computer Hardware,1523882748
-CRD.A,Crawford & Company,Insurance Brokers,331667354
-CRD.B,Crawford & Company,Insurance Brokers,331919834
 CRDF,Cardiff Oncology,Biotechnology,130871398
 CRDL,Cardiol Therapeutics,Drug Manufacturers-Specialty & Generic,72056184
 CRDO,Credo Technology Group Holding,Communication Equipment,2161015550
@@ -1457,7 +1407,6 @@ CSGS,CSG Systems International,IT Services,1825832148
 CSII,Cardiovascular Systems,Health Care Equipment & Supplies,664389311
 CSIQ,Canadian Solar,Semiconductors & Semiconductor Equipment,2631807482
 CSL,Carlisle Companies,Industrial Conglomerates,16100221927
-CSLM,Consilium Acquisition Corp I,Blank Check / SPAC,233392992
 CSPI,CSP Inc.,IT Services,36899995
 CSR,Centerspace,"Electronic Equipment, Instruments & C...",1432813494
 CSSE,Chicken Soup for the Soul Entertainment,Entertainment,211399694
@@ -1537,13 +1486,11 @@ CWBC,Community West Bancshares,Banks,119904036
 CWBR,CohBar,Biotechnology,17135393
 CWCO,Consolidated Water Co.,Water Utilities,224085415
 CWEN,Clearway Energy,Independent Power and Renewable Elect...,7613203956
-CWEN.A,Clearway Energy,Independent Power and Renewable Elect...,7603311614
 CWH,Camping World Holdings,Specialty Retail,1308175999
 CWK,Cushman & Wakefield,Real Estate Management & Development,3649164798
 CWST,Casella Waste Systems,Commercial Services & Supplies,4351804380
 CWT,California Water Service Group,Water Utilities,3324956397
 CX,CEMEX,Construction Materials,6672237054
-CXAC,C5 Acquisition,Blank Check / SPAC,360453114
 CXDO,Crexendo,IT Services,68851310
 CXM,Sprinklr,Software-Application,3247526911
 CXW,CoreCivic,Equity Real Estate Investment Trusts ...,1160899451
@@ -1594,7 +1541,6 @@ DBRG,DigitalBridge Group,REIT-Diversified,3636544507
 DBTX,Decibel Therapeutics,Biotechnology,108096276
 DBVT,DBV Technologies,Biotechnology,501527486
 DBX,Dropbox,Software,9057752044
-DC,Dakota Gold,Gold,158227405
 DCBO,Docebo,Software-Application,1204855030
 DCFC,Tritium DCFC,Electrical Equipment & Parts,1090029308
 DCGO,DocGo,Medical Care Facilities,984993720
@@ -1614,7 +1560,6 @@ DDOG,Datadog,Software,36321673142
 DDS,Dillard's,Multiline Retail,5129946075
 DE,Deere & Company,Machinery,1.10616E+11
 DEA,Easterly Government Properties,Equity Real Estate Investment Trusts ...,3344449518
-DECA,Denali Capital Acquisition,Blank Check / SPAC,108225000
 DECK,Deckers Outdoor,"Textiles, Apparel & Luxury Goods",8730024891
 DEI,Douglas Emmett,Equity Real Estate Investment Trusts ...,4674995693
 DELL,Dell Technologies,"Technology Hardware, Storage & Periph...",35201056752
@@ -1682,7 +1627,6 @@ DMS,Digital Media Solutions,Advertising Agencies,84054166
 DMTK,DermTech,Biotechnology,188350173
 DMYS,"dMY Technology Group, Inc. VI",Blank Check / SPAC,295837500
 DNA,Ginkgo Bioworks Holdings,Biotechnology,6060024319
-DNAA,Social Capital Suvretta Holdings I,Shell Companies,318262170
 DNAB,Social Capital Suvretta Holdings II,Blank Check / SPAC,310289700
 DNAD,Social Capital Suvretta Holdings IV,Blank Check / SPAC,312043513
 DNAY,Codex DNA,Medical Devices,65235222
@@ -1693,7 +1637,6 @@ DNN,Denison Mines,"Oil, Gas & Consumable Fuels",990233727
 DNOW,NOW Inc.,Trading Companies & Distributors,1250399223
 DNUT,Krispy Kreme,Grocery Stores,2422460415
 DNZ,D & Z Media Acquisition,Blank Check / SPAC,354703134
-DO,Diamond Offshore Drilling,Energy Equipment & Services,705768450
 DOC,Physicians Realty Trust,Equity Real Estate Investment Trusts ...,4264424185
 DOCN,DigitalOcean Holdings,Software-Infrastructure,4851791857
 DOCS,Doximity,Health Information Services,7401899505
@@ -1712,11 +1655,9 @@ DOX,Amdocs,IT Services,10759554986
 DOYU,DouYu International Holdings,Entertainment,377805983
 DPCS,DP Cap Acquisition I,Blank Check / SPAC,287500000
 DPRO,Draganfly,Aerospace & Defense,32545408
-DPSI,DecisionPoint Systems,IT Services,40799378
 DPZ,Domino's Pizza,"Hotels, Restaurants & Leisure",14502245058
 DQ,Daqo New Energy,Semiconductors & Semiconductor Equipment,5269873107
 DRAY,Macondray Capital Acquisition I,Blank Check / SPAC,357578105
-DRCT,Direct Digital Holdings,Advertising Agencies,8400000
 DRD,DRDGOLD,Metals & Mining,545672767
 DRE,Duke Realty,Equity Real Estate Investment Trusts ...,24642736100
 DRH,DiamondRock Hospitality Company,Equity Real Estate Investment Trusts ...,2053402748
@@ -1750,7 +1691,6 @@ DTOC,Digital Transformation Opportunities,Blank Check / SPAC,411038710
 DTRT,DTRT Health Acquisition,Blank Check / SPAC,290375000
 DTSS,Datasea,Software,34297686
 DTST,Data Storage,Information Technology Services,18350133
-DUET,DUET Acquisition,Blank Check / SPAC,112012115
 DUK,Duke Energy,Electric Utilities,83549339553
 DUNE,Dune Acquisition,Blank Check / SPAC,211096874
 DUO,Fangdd Network Group,Interactive Media & Services,14406585
@@ -1797,7 +1737,6 @@ EBR,Centrais Eletricas Brasileiras,Electric Utilities,21161385977
 EBS,Emergent BioSolutions,Biotechnology,1490360175
 EBTC,Enterprise Bancorp,Banks,411795648
 EC,Ecopetrol,"Oil, Gas & Consumable Fuels",22593570809
-ECBK,ECB Bancorp,Banks-Regional,128453500
 ECC,Eagle Point Credit Company,Securities and Commodity Exchanges,461332638
 ECL,Ecolab,Chemicals,48770166714
 ECOM,ChannelAdvisor,Software,444432989
@@ -1806,7 +1745,6 @@ ECPG,Encore Capital Group,Consumer Finance,1302686675
 ECVT,Ecovyst,Specialty Chemicals,1294927866
 ED,Consolidated Edison,Multi-Utilities,34919239594
 EDAP,EDAP TMS,Health Care Equipment & Supplies,244971852
-EDBL,Edible Garden AG,Farm Products,10385931
 EDIT,Editas Medicine,Biotechnology,1243455984
 EDN,Empresa Distribuidora y Comercializadora Norte,Electric Utilities,634580218
 EDNC,Endurance Acquisition,Blank Check / SPAC,247499990
@@ -1817,7 +1755,6 @@ EDTK,Skillful Craftsman Education Technology,Education & Training Services,14900
 EDTX,EdtechX Holdings Acquisition II,Blank Check / SPAC,147056239
 EDU,New Oriental Education & Technology Group,Diversified Consumer Services,4628275185
 EDUC,Educational Development,Distributors,29141114
-EE,Excelerate Energy,Utilities-Renewable,2599706856
 EEFT,Euronet Worldwide,IT Services,5000264120
 EEIQ,Elite Education Group International,Diversified Consumer Services,19881540
 EEX,Emerald Holding,Media,278536702
@@ -1838,7 +1775,6 @@ EGP,EastGroup Properties,Equity Real Estate Investment Trusts ...,7599216495
 EGRX,Eagle Pharmaceuticals,Biotechnology,453840840
 EGY,VAALCO Energy,"Oil, Gas & Consumable Fuels",311108699
 EH,EHang Holdings,Aerospace & Defense,442705692
-EHAB,Enhabit,Medical Care Facilities,678616893
 EHC,Encompass Health,Health Care Providers & Services,5275241447
 EHTH,eHealth,Insurance,215877024
 EIG,Employers Holdings,Insurance,1084108537
@@ -1867,21 +1803,17 @@ ELYM,Eliem Therapeutics,Biotechnology,78109038
 ELYS,Elys Game Technology,Gambling,17770950
 EM,Smart Share Global,Personal Services,287145247
 EMAN,eMagin,Semiconductors & Semiconductor Equipment,65344779
-EMBC,Embecta,Drug Manufacturers-Specialty & Generic,1733943030
 EMBK,Embark Technology,Software-Application,266283263
 EMCF,Emclaire Financial,Banks,92313303
 EMCG,Embrace Change Acquisition,Blank Check / SPAC,94159754
 EME,EMCOR Group,Construction & Engineering,5837410288
 EMKR,EMCORE,Communications Equipment,97254238
 EML,The Eastern Company,Machinery,134912372
-EMLD,FTAC Emerald Acquisition,Blank Check / SPAC,339092313
 EMN,Eastman Chemical Company,Chemicals,12180196322
 EMR,Emerson Electric Company,Electrical Equipment,51732832188
-EMWP,Eros Media World,Entertainment,35657020
 EMX,EMX Royalty,Metals & Mining,224235149
 ENB,Enbridge,"Oil, Gas & Consumable Fuels",89657696240
 ENCP,Energem,Blank Check / SPAC,132605807
-ENDP,Endo International,Pharmaceuticals,92716887
 ENER,Accretion Acquisition,Blank Check / SPAC,257090559
 ENFN,Enfusion,Software-Application,1013735736
 ENG,ENGlobal,Energy Equipment & Services,57283680
@@ -1947,7 +1879,6 @@ ERJ,Embraer,Aerospace & Defense,2044035707
 ERO,Ero Copper,Metals & Mining,1022604863
 ERYP,Erytech Pharma,Biotechnology,37529483
 ES,Eversource Energy,Electric Utilities,31737644970
-ESAB,ESAB Corporation,Metal Fabrication,2689948665
 ESAC,ESGEN Acquisition,Blank Check / SPAC,347759989
 ESBA,"Empire State Realty OP,",Equity Real Estate Investment Trusts ...,2179256064
 ESCA,Escalade,Leisure Products,165938771
@@ -1987,12 +1918,9 @@ EVBG,Everbridge,Software,1382734816
 EVBN,Evans Bancorp,Banks,206299317
 EVC,Entravision Communications,Media,473998138
 EVCM,EverCommerce,Software-Infrastructure,2459415549
-EVE,EVe Mobility Acquisition,Blank Check / SPAC,344388247
 EVER,EverQuote,Interactive Media & Services,328476221
-EVEX,Eve Holding,Aerospace & Defense,1953413502
 EVGN,Evogene,Biotechnology,41600183
 EVGO,"EVgo, Inc.",Specialty Retail,2716889081
-EVGR,Evergreen,Blank Check / SPAC,105219199
 EVH,Evolent Health,Health Care Technology,3287268341
 EVI,EVI Industries,Trading Companies & Distributors,151192059
 EVK,Ever-Glory International Group,"Textiles, Apparel & Luxury Goods",16410574
@@ -2084,7 +2012,6 @@ FDS,FactSet Research Systems,Capital Markets,16450862873
 FDUS,Fidus Investment,Capital Markets,489236748
 FDX,FedEx,Air Freight & Logistics,59581312900
 FE,FirstEnergy,Electric Utilities,22895798251
-FEAM,5E Advanced Materials,Specialty Chemicals,843410556
 FEDU,Four Seasons Education (Cayman),Diversified Consumer Services,34194468
 FEIM,Frequency Electronics,"Electronic Equipment, Instruments & C...",61172944
 FELE,Franklin Electric Co.,Machinery,4362066891
@@ -2108,7 +2035,6 @@ FGBI,First Guaranty Bancshares,Banks,265133631
 FGEN,FibroGen,Biotechnology,1317063930
 FGF,FG Financial Group,Insurance,14959632
 FGI,FGI Industries,"Furnishings, Fixtures & Appliances",32896500
-FGMC,FG Merger,Blank Check / SPAC,88488400
 FHB,First Hawaiian,Banks,3450098407
 FHI,Federated Hermes,Asset Management,3071819501
 FHLT,Future Health ESG,Blank Check / SPAC,248499980
@@ -2123,7 +2049,6 @@ FIGS,"FIGS, Inc.",Apparel Manufacturing,2025500799
 FINM,Marlin Technology,Blank Check / SPAC,512324990
 FINV,FinVolution Group,Consumer Finance,1303382270
 FINW,FinWise Bancorp,Banks-Regional,137867360
-FIP,FTAI Infrastructure,Conglomerates,289664575
 FIS,Fidelity National Information Services,IT Services,61107969993
 FISI,Financial Institutions,Banks,417547515
 FISV,Fiserv,IT Services,69049491446
@@ -2138,7 +2063,6 @@ FL,Foot Locker,Specialty Retail,2914697713
 FLAC,Frazier Lifesciences Acquisition,Blank Check / SPAC,176089929
 FLAG,First Light Acquisition Group,Blank Check / SPAC,286637500
 FLEX,Flex Ltd.,"Electronic Equipment, Instruments & C...",8501424120
-FLFV,Feutune Light Acquisition,Blank Check / SPAC,121068830
 FLGC,Flora Growth,Drug Manufacturers-Specialty & Generic,57130475
 FLGT,Fulgent Genetics,Health Care Providers & Services,1566860414
 FLIC,The First of Long Island Corporation,Banks,451130044
@@ -2204,7 +2128,6 @@ FR,First Industrial Realty Trust,Equity Real Estate Investment Trusts ...,714372
 FRAF,Franklin Financial Services,Banks,141576291
 FRBA,First Bank,Banks,314030400
 FRBK,Republic First Bancorp,Banks,221225342
-FRBN,Forbion European Acquisition,Blank Check / SPAC,158441260
 FRC,First Republic Bank,Banks,30327035865
 FRD,Friedman Industries,Metals & Mining,80612582
 FREE,Whole Earth Brands,Packaged Foods,277026393
@@ -2246,7 +2169,6 @@ FSRD,Fast Radius,Software-Infrastructure,63597763
 FSRX,FinServ Acquisition II,Blank Check / SPAC,377637980
 FSS,Federal Signal,Machinery,2543896290
 FSSI,Fortistar Sustainable Solutions,Shell Companies,318909848
-FST,FAST Acquisition,Blank Check / SPAC,253500010
 FSTR,L.B. Foster Company,Machinery,163942485
 FSTX,F-star Therapeutics,Biotechnology,141811485
 FSV,FirstService,Real Estate Management & Development,5957644714
@@ -2261,11 +2183,9 @@ FTEV,FinTech Evolution Acquisition Group,Blank Check / SPAC,337830202
 FTFT,Future FinTech Group,Food Products,39223567
 FTHM,Fathom Holdings,Real Estate Management & Development,129085911
 FTI,TechnipFMC,Energy Equipment & Services,3961377277
-FTII,FutureTech II Acquisition,Blank Check / SPAC,150701404
 FTK,Flotek Industries,Chemicals,94997767
 FTNT,Fortinet,Software,41413124075
 FTPA,FTAC Parnassus Acquisition,Blank Check / SPAC,336709948
-FTRP,Field Trip Health,Medical Care Facilities,49907327
 FTS,Fortis,Electric Utilities,22443524051
 FTV,Fortive,Machinery,23931293689
 FTVI,FinTech Acquisition VI,Blank Check / SPAC,338765137
@@ -2308,14 +2228,12 @@ GAME,Engine Gaming & Media,Software,14716234
 GAN,GAN Limited,Gambling,157715966
 GANX,Gain Therapeutics,Biotechnology,47652434
 GAPA,G&P Acquisition,Blank Check / SPAC,218968750
-GAQ,Generation Asia I Acquisition,Blank Check / SPAC,265410000
 GASS,StealthGas,"Oil, Gas & Consumable Fuels",101617854
 GATE,Marblegate Acquisition,Blank Check / SPAC,409248088
 GATO,Gatos Silver,Other Precious Metals & Mining,273081247
 GATX,GATX Corporation,Trading Companies & Distributors,3552945100
 GAU,Galiano Gold,Metals & Mining,98974920
 GB,Global Blue Group Holding AG,Software-Infrastructure,921890875
-GBBK,Global Blockchain Acquisition,Blank Check / SPAC,216823134
 GBCI,Glacier Bancorp,Banks,5902666743
 GBDC,Golub Capital BDC,Capital Markets,2423305209
 GBIO,Generation Bio Co.,Biotechnology,426060864
@@ -2328,7 +2246,6 @@ GBR,New Concept Energy,"Oil, Gas & Consumable Fuels",7518277
 GBRG,Goldenbridge Acquisition,Blank Check / SPAC,77100087
 GBS,"GBS, Inc.",Medical Devices,10647766
 GBT,Global Blood Therapeutics,Biotechnology,4491058109
-GBTG,Global Business Travel Group,Software-Application,3466705658
 GBX,The Greenbrier Companies,Machinery,1035311229
 GCBC,Greene County Bancorp,Thrifts & Mortgage Finance,433332569
 GCI,Gannett Co.,Publishing,381362781
@@ -2344,20 +2261,17 @@ GDNR,Gardiner Healthcare Acquisitions,Blank Check / SPAC,107596366
 GDOT,Green Dot,Consumer Finance,1265279731
 GDRX,GoodRx Holdings,Health Care Technology,3025757691
 GDS,GDS Holdings,IT Services,5527971307
-GDST,Goldenstone Acquisition,Blank Check / SPAC,75430762
 GDYN,Grid Dynamics Holdings,IT Services,1317645948
 GE,General Electric Company,Industrial Conglomerates,86517800917
 GECC,Great Elm Capital,Capital Markets,92363814
 GEEX,Games & Esports Experience Acquisition,Blank Check / SPAC,251250000
 GEF,Greif,Containers & Packaging,3396211943
-GEF.B,Greif,Packaging & Containers,3402508814
 GEG,Great Elm Group,Capital Markets,59979915
 GEHI,Gravitas Education Holdings,Education & Training Services,16074828
 GEL,Genesis Energy,"Oil, Gas & Consumable Fuels",1279724666
 GENC,Gencor Industries,Machinery,142033103
 GENE,Genetic Technologies,Life Sciences Tools & Services,25919117
 GENI,Genius Sports,Interactive Media & Services,834849663
-GENQ,Genesis Unicorn Capital,Blank Check / SPAC,111680949
 GEO,The GEO Group,Equity Real Estate Investment Trusts ...,836366586
 GEOS,Geospace Technologies,Energy Equipment & Services,61971392
 GERN,Geron,Biotechnology,773766335
@@ -2367,13 +2281,11 @@ GETY,Getty Images Holdings,Internet Content & Information,10855880703
 GEVO,"Gevo, Inc.","Oil, Gas & Consumable Fuels",841894269
 GFAI,Guardforce AI ,Security & Protection Services,13241312
 GFF,Griffon,Building Products,1923053430
-GFGD,Growth For Good Acquisition,Blank Check / SPAC,317440720
 GFI,Gold Fields,Metals & Mining,8416591868
 GFL,GFL Environmental,Waste Management,9895228402
 GFOR,Graf Acquisition IV,Blank Check / SPAC,209594842
 GFS,GlobalFoundries,Semiconductors,31332368381
 GFX,Golden Falcon Acquisition,Blank Check / SPAC,427368730
-GGAA,Genesis Growth Tech Acquisition,Blank Check / SPAC,318463739
 GGAL,Grupo Financiero Galicia,Banks,2481989371
 GGB,Gerdau,Metals & Mining,8417345534
 GGE,Green Giant,Real Estate Management & Development,99807366
@@ -2384,7 +2296,6 @@ GH,Guardant Health,Health Care Providers & Services,5430948812
 GHAC,Gaming & Hospitality Acquisition,Blank Check / SPAC,254681690
 GHC,Graham Holdings Company,Diversified Consumer Services,2872754169
 GHG,GreenTree Hospitality Group,"Hotels, Restaurants & Leisure",414260991
-GHIX,Gores Holdings IX,Blank Check / SPAC,634921913
 GHL,Greenhill & Co.,Capital Markets,161206009
 GHLD,Guild Holdings Company,Mortgage Finance,678229947
 GHM,Graham,Machinery,96659290
@@ -2439,7 +2350,6 @@ GMBL,Esports Entertainment Group,"Hotels, Restaurants & Leisure",24553740
 GMDA,Gamida Cell,Biotechnology,203348478
 GME,GameStop,Specialty Retail,12013156318
 GMED,Globus Medical,Health Care Equipment & Supplies,6496208840
-GMFI,Aetherium Acquisition,Blank Check / SPAC,148289825
 GMGI,Golden Matrix Group,Electronic Gaming & Multimedia,115275181
 GMRE,Global Medical REIT,Equity Real Estate Investment Trusts ...,833902651
 GMS,GMS Inc.,Trading Companies & Distributors,2287579608
@@ -2453,7 +2363,6 @@ GNL,Global Net Lease,Equity Real Estate Investment Trusts ...,1579015545
 GNLN,Greenlane Holdings,Distributors,24612500
 GNPX,Genprex,Biotechnology,71847600
 GNRC,Generac Holdings,Electrical Equipment,17001360215
-GNS,Genius Group,Education & Training Services,105073381
 GNSS,Genasys,"Electronic Equipment, Instruments & C...",129486470
 GNTA,Genenta Science S.p.A.,Biotechnology,117498998
 GNTX,Gentex,Auto Components,6710610428
@@ -2461,7 +2370,6 @@ GNTY,Guaranty Bancshares,Banks,436525247
 GNUS,Genius Brands International,Leisure Products,296971583
 GNW,Genworth Financial,Insurance,2206276093
 GO,Grocery Outlet Holding,Food & Staples Retailing,4053213414
-GOAC,GO Acquisition,Blank Check / SPAC,719109375
 GOCO,GoHealth,Insurance Brokers,207772575
 GOEV,Canoo,Automobiles,1027875005
 GOGL,Golden Ocean Group,Marine,2310189046
@@ -2515,7 +2423,6 @@ GRPN,Groupon,Internet & Direct Marketing Retail,388723296
 GRRR,Gorilla Technology Group,Shell Companies,850806391
 GRTS,Gritstone bio,Biotechnology,259174477
 GRTX,Galera Therapeutics,Biotechnology,36477374
-GRVI,Grove,Drug Manufacturers-Specialty & Generic,91499712
 GRVY,Gravity Co.,Entertainment,364469805
 GRWG,GrowGeneration,Specialty Retail,341665084
 GS,The Goldman Sachs Group,Capital Markets,1.20048E+11
@@ -2531,8 +2438,6 @@ GSM,Ferroglobe,Metals & Mining,1243758207
 GSMG,Glory Star New Media Group Holdings,Advertising Agencies,96055399
 GSQB,G Squared Ascend II,Blank Check / SPAC,177352046
 GSQD,G Squared Ascend I,Blank Check / SPAC,425643740
-GSRM,GSR II Meteora Acquisition,Blank Check / SPAC,341000000
-GSUN,Golden Sun Education Group,Education & Training Services,755160000
 GSV,Gold Standard Ventures,Metals & Mining,145424304
 GT,The Goodyear Tire & Rubber Company,Auto Components,4106299893
 GTAC,Global Technology Acquisition I,Blank Check / SPAC,250749999
@@ -2546,7 +2451,6 @@ GTIM,Good Times Restaurants,"Hotels, Restaurants & Leisure",43706600
 GTLB,GitLab,Software-Application,10138128343
 GTLS,Chart Industries,Machinery,7446208419
 GTN,Gray Television,Media,1809377406
-GTN.A,Gray Television,Broadcasting,1759609087
 GTPA,Gores Technology Partners,Blank Check / SPAC,337562490
 GTPB,Gores Technology Partners II,Blank Check / SPAC,565225019
 GTX,Garrett Motion,Auto Components,451685246
@@ -2570,7 +2474,6 @@ HA,Hawaiian Holdings,Airlines,852492081
 HAAC,Health Assurance Acquisition,Blank Check / SPAC,547937017
 HAE,Haemonetics,Health Care Equipment & Supplies,3749696508
 HAFC,Hanmi Financial,Banks,810847800
-HAIA,Healthcare AI Acquisition,Blank Check / SPAC,269017883
 HAIN,The Hain Celestial Group,Food Products,2132690672
 HAL,Halliburton Company,Energy Equipment & Services,26818334700
 HALL,Hallmark Financial Services,Insurance,44384576
@@ -2600,7 +2503,6 @@ HCIC,Hennessy Capital Investment V,Shell Companies,425643740
 HCII,Hudson Executive Investment II,Blank Check / SPAC,308437500
 HCKT,The Hackett Group,IT Services,696954997
 HCM,HUTCHMED (China),Pharmaceuticals,2396601844
-HCMA,HCM Acquisition,Blank Check / SPAC,388513114
 HCNE,JAWS Hurricane Acquisition,Blank Check / SPAC,385430155
 HCP,HashiCorp,Software-Infrastructure,7489677795
 HCSG,Healthcare Services Group,Commercial Services & Supplies,1070080242
@@ -2614,7 +2516,6 @@ HE,Hawaiian Electric Industries,Electric Utilities,4629444094
 HEAR,Turtle Beach,Household Durables,162454512
 HEES,H&E Equipment Services,Trading Companies & Distributors,1278606956
 HEI,HEICO,Aerospace & Defense,19189237730
-HEI.A,HEICO,Aerospace & Defense,19118630821
 HELE,Helen of Troy,Household Durables,3118301850
 HEP,Holly Energy Partners,"Oil, Gas & Consumable Fuels",2210171130
 HEPA,Hepion Pharmaceuticals,Pharmaceuticals,55998263
@@ -2651,7 +2552,6 @@ HIPO,Hippo Holdings,Insurance-Specialty,545106495
 HITI,High Tide,Pharmaceutical Retailers,98295086
 HIVE,HIVE Blockchain Technologies,Capital Markets,518991196
 HIW,Highwoods Properties,Equity Real Estate Investment Trusts ...,3894297329
-HKD,AMTD Digital,Software-Application,39599628288
 HL,Hecla Mining Company,Metals & Mining,2448027389
 HLAH,Hamilton Lane Alliance Holdings I,Blank Check / SPAC,320484831
 HLBZ,Helbiz,Recreational Vehicles,58085311
@@ -2663,13 +2563,10 @@ HLIO,Helios Technologies,Machinery,2168061427
 HLIT,Harmonic,Communications Equipment,1170368377
 HLLY,Holley,Auto Parts,765993341
 HLMN,Hillman Solutions,Tools & Accessories,1870079996
-HLN,Haleon,Drug Manufacturers-Specialty & Generic,29042755578
 HLNE,Hamilton Lane,Capital Markets,4118245567
 HLT,Hilton Worldwide Holdings,"Hotels, Restaurants & Leisure",36943716299
 HLTH,Cue Health,Health Information Services,666688446
-HLVX,HilleVax,Biotechnology,411488832
 HLX,Helix Energy Solutions Group,Energy Equipment & Services,623606206
-HMA,Heartland Media Acquisition,Blank Check / SPAC,218750000
 HMC,Honda Motor Company,Automobiles,46186196976
 HMCO,HumanCo Acquisition,Blank Check / SPAC,380535064
 HMLP,"Hoegh Lng Partners, LP","Oil, Gas & Consumable Fuels",305696670
@@ -2682,10 +2579,8 @@ HMY,Harmony Gold Mining Company,Metals & Mining,2120684412
 HNGR,Hanger,Health Care Providers & Services,725737215
 HNI,HNI Corporation,Commercial Services & Supplies,1448714604
 HNNA,Hennessy Advisors,Capital Markets,77814776
-HNRA,HNR Acquisition,Blank Check / SPAC,97040250
 HNRG,Hallador Energy Company,"Oil, Gas & Consumable Fuels",234176460
 HNST,The Honest Company,Specialty Retail,353771869
-HNVR,Hanover Bancorp,Banks-Regional,150239574
 HOFT,Hooker Furniture,Household Durables,195754234
 HOFV,Hall of Fame Resort & Entertainment Company,Entertainment,120633943
 HOG,Harley-Davidson,Automobiles,5785092078
@@ -2697,7 +2592,6 @@ HONE,HarborOne Bancorp,Banks,728498935
 HOOD,Robinhood Markets,Capital Markets,8782944250
 HOOK,HOOKIPA Pharma,Biotechnology,86980159
 HOPE,Hope Bancorp,Banks,1824398581
-HORI,Emerging Markets Horizon,Blank Check / SPAC,358296894
 HOTH,Hoth Therapeutics,Pharmaceuticals,14630054
 HOUR,Hour Loop,Internet Retail,125783903
 HOUS,Anywhere Real Estate,Real Estate Services,1435418875
@@ -2725,7 +2619,6 @@ HRZN,Horizon Technology Finance,Capital Markets,347738880
 HSAQ,Health Sciences Acquisitions Corp. 2,Blank Check / SPAC,201636990
 HSBC,HSBC Holdings,Banks,1.34394E+11
 HSC,Harsco,Machinery,521071932
-HSCS,Heart Test Laboratories,Medical Devices,26026676
 HSDT,Helius Medical Technologies,Health Care Equipment & Supplies,2050730
 HSIC,Henry Schein,Health Care Providers & Services,10442743797
 HSII,Heidrick & Struggles International,Professional Services,623698680
@@ -2739,7 +2632,6 @@ HT,Hersha Hospitality Trust,Equity Real Estate Investment Trusts ...,444552473
 HTAQ,Hunt Companies Acquisition I,Blank Check / SPAC,289800000
 HTBI,HomeTrust Bancshares,Banks,387890580
 HTBK,Heritage Commerce,Banks,723172096
-HTCR,HeartCore Enterprises,Software-Application,45617319
 HTGC,Hercules Capital,Capital Markets,1973476858
 HTGM,HTG Molecular Diagnostics,Health Care Technology,12481979
 HTH,Hilltop Holdings,Banks,1881107560
@@ -2833,7 +2725,6 @@ IDT,IDT Corporation,Diversified Telecommunication Services,682528436
 IDW,IDW Media Holdings,Publishing,25624690
 IDXX,IDEXX Laboratories,Health Care Equipment & Supplies,33025074939
 IDYA,IDEAYA Biosciences,Biotechnology,604904573
-IE,Ivanhoe Electric,Software-Application,902870456
 IEA,Infrastructure & Energy Alternatives,Construction & Engineering,693741758
 IEP,Icahn Enterprises,Industrial Conglomerates,17703165941
 IESC,IES Holdings,Construction & Engineering,680360688
@@ -2864,7 +2755,6 @@ IIPR,Innovative Industrial Properties,Equity Real Estate Investment Trusts ...,2
 IIVI,II-VI,"Electronic Equipment, Instruments & C...",6810602474
 IKNA,Ikena Oncology,Biotechnology,213714331
 IKT,Inhibikase Therapeutics,Biotechnology,22401665
-ILAG,Intelligent Living Application Group,Building Products & Equipment,59778600
 ILMN,Illumina,Life Sciences Tools & Services,35730825137
 ILPT,Industrial Logistics Properties Trust,Equity Real Estate Investment Trusts ...,624832634
 IMAB,I-Mab,Biotechnology,657862908
@@ -2935,7 +2825,6 @@ INTA,Intapp,Software-Application,1005512368
 INTC,Intel,Semiconductors & Semiconductor Equipment,1.46133E+11
 INTE,Integral Acquisition 1,Blank Check / SPAC,142887480
 INTG,The InterGroup Corporation,Real Estate Management & Development,116017636
-INTR,Inter & Co.,Trading Companies & Distributors,8003532287
 INTT,inTEST,Semiconductors & Semiconductor Equipment,109042550
 INTU,Intuit,Software,1.3505E+11
 INTZ,Intrusion,Software,78643600
@@ -2950,7 +2839,6 @@ IOAC,Innovative International Acquisition,Blank Check / SPAC,323668800
 IOBT,IO Biotech,Biotechnology,113244125
 IONM,Assure Holdings,Medical Care Facilities,20671520
 IONQ,"IonQ, Inc.",Computer Hardware,1202709884
-IONR,ioneer,Other Industrial Metals & Mining,1046434157
 IONS,Ionis Pharmaceuticals,Biotechnology,6165916649
 IOR,Income Opportunity Realty Investors,Thrifts & Mortgage Finance,52376059
 IOSP,Innospec,Chemicals,2438661060
@@ -2973,7 +2861,6 @@ IPVF,InterPrivate III Financial Partners,Blank Check / SPAC,327376570
 IPVI,InterPrivate IV InfraTech Partners,Blank Check / SPAC,353265615
 IPW,iPower,Internet Retail,36374052
 IPWR,Ideal Power,Electrical Equipment,78225336
-IPX,IperionX,Other Industrial Metals & Mining,89886544
 IQ,iQIYI,Entertainment,3341747197
 IQMD,Intelligent Medicine Acquisition,Blank Check / SPAC,260043750
 IQV,IQVIA Holdings,Life Sciences Tools & Services,45134933822
@@ -3007,7 +2894,6 @@ ISSC,Innovative Solutions & Support,Aerospace & Defense,126256850
 ISTR,Investar Holding,Banks,225322811
 ISUN,"iSun, Inc.",Solar,56192796
 IT,Gartner,IT Services,23695742699
-ITAQ,Industrial Tech Acquisitions II,Blank Check / SPAC,173190000
 ITCB,Itau Corpbanca,Banks,2063858045
 ITCI,Intra-Cellular Therapies,Pharmaceuticals,5378372042
 ITGR,Integer Holdings,Health Care Equipment & Supplies,2433539536
@@ -3026,15 +2912,11 @@ ITW,Illinois Tool Works,Machinery,66002124724
 IVA,Inventiva,Biotechnology,200689376
 IVAC,Intevac,"Technology Hardware, Storage & Periph...",123622510
 IVC,Invacare,Health Care Equipment & Supplies,38310500
-IVCA,Investcorp Acquisition,Blank Check / SPAC,326995807
-IVCB,Investcorp Europe Acquisition Corp I,Blank Check / SPAC,432974999
-IVCP,Swiftmerge Acquisition,Blank Check / SPAC,247250000
 IVR,Invesco Mortgage Capital,Mortgage Real Estate Investment Trust...,567357491
 IVT,InvenTrust Properties,REIT-Retail,1955400429
 IVZ,Invesco,Capital Markets,8411840507
 IX,ORIX Corporation,Diversified Financial Services,20062353342
 IXAQ,IX Acquisition,Blank Check / SPAC,284050009
-IXHL,Incannex Healthcare,Drug Manufacturers-Specialty & Generic,244156579
 IZEA,IZEA Worldwide,Interactive Media & Services,55069479
 J,Jacobs Engineering Group,Construction & Engineering,16411407274
 JACK,Jack in the Box,"Hotels, Restaurants & Leisure",1787958361
@@ -3055,7 +2937,6 @@ JBSS,John B. Sanfilippo & Son,Food Products,810385958
 JBT,John Bean Technologies,Machinery,3735465708
 JCI,Johnson Controls International,Building Products,38821330923
 JCIC,Jack Creek Investment,Blank Check / SPAC,426721884
-JCSE,JE Cleantech Holdings,Specialty Industrial Machinery,30040000
 JCTCF,Jewett-Cameron Trading Company,Building Products,22989866
 JD,JD.com,Internet & Direct Marketing Retail,91406917611
 JEF,Jefferies Financial Group,Diversified Financial Services,8024277490
@@ -3063,7 +2944,6 @@ JELD,JELD-WEN Holding,Building Products,1170356093
 JFIN,Jiayin Group,Consumer Finance,135062495
 JFU,9F Inc.,Interactive Media & Services,170919072
 JG,Aurora Mobile,Software,119865791
-JGGC,Jaguar Global Growth Corporation I,Blank Check / SPAC,305440302
 JHG,Janus Henderson Group,Capital Markets,4302138363
 JHX,James Hardie Industries,Construction Materials,11509962750
 JILL,J.Jill,Specialty Retail,165017915
@@ -3169,7 +3049,6 @@ KNDI,Kandi Technologies Group,Auto Components,179576781
 KNOP,KNOT Offshore Partners,"Oil, Gas & Consumable Fuels",589224562
 KNSA,Kiniksa Pharmaceuticals,Biotechnology,844768636
 KNSL,Kinsale Capital Group,Insurance,6323967941
-KNSW,KnightSwan Acquisition,Blank Check / SPAC,287356250
 KNTE,Kinnate Biopharma,Biotechnology,586221368
 KNTK,Kinetik Holdings,"Oil, Gas & Consumable Fuels",1568759522
 KNX,Knight-Swift Transportation Holdings,Road & Rail,9016519631
@@ -3223,7 +3102,6 @@ KW,Kennedy-Wilson Holdings,Real Estate Management & Development,2826093553
 KWAC,Kingswood Acquisition,Blank Check / SPAC,150147230
 KWR,Quaker Chemical,Chemicals,3367424967
 KXIN,Kaixin Auto Holdings,Specialty Retail,201240896
-KYCH,Keyarch Acquisition,Blank Check / SPAC,148932000
 KYMR,Kymera Therapeutics,Biotechnology,1765933284
 KZIA,Kazia Therapeutics,Biotechnology,24382575
 KZR,Kezar Life Sciences,Biotechnology,589656256
@@ -3240,7 +3118,6 @@ LANC,Lancaster Colony,Food Products,3973075920
 LAND,Gladstone Land,Equity Real Estate Investment Trusts ...,867941230
 LARK,Landmark Bancorp,Banks,124657291
 LASR,nLIGHT,"Electronic Equipment, Instruments & C...",577222400
-LATG,LatAmGrowth SPAC,Blank Check / SPAC,162500000
 LAUR,Laureate Education,Diversified Consumer Services,1854105470
 LAW,CS Disco,Software-Application,1698842745
 LAX,8i Acquisition 2,Blank Check / SPAC,110070580
@@ -3248,7 +3125,6 @@ LAZ,Lazard,Capital Markets,3626693090
 LAZR,Luminar Technologies,Auto Components,3603871478
 LAZY,Lazydays Holdings,Specialty Retail,180961732
 LBAI,Lakeland Bancorp,Banks,1058856510
-LBBB,Lakeshore Acquisition II,Blank Check / SPAC,91323575
 LBC,Luther Burbank,Thrifts & Mortgage Finance,680317628
 LBPH,Longboard Pharmaceuticals,Biotechnology,64729565
 LBRDA,Liberty Broadband,Media,17924018156
@@ -3260,7 +3136,6 @@ LBTYK,Liberty Global,Media,11091433471
 LC,LendingClub,Consumer Finance,1555861625
 LCA,Landcadia Holdings IV,Blank Check / SPAC,613125049
 LCAA,L Catterton Asia Acquisition,Blank Check / SPAC,352763960
-LCFY,Locafy,Internet Content & Information,13647545
 LCI,Lannett Company,Pharmaceuticals,24868133
 LCID,Lucid Group,Automobiles,30261133297
 LCII,LCI Industries,Auto Components,3501544888
@@ -3282,7 +3157,6 @@ LEGH,Legacy Housing,Household Durables,433938680
 LEGN,Legend Biotech,Biotechnology,7131552250
 LEJU,Leju Holdings,Internet & Direct Marketing Retail,34342570
 LEN,Lennar,Household Durables,24890228709
-LEN.B,Lennar,Construction & Engineering,24840631622
 LESL,Leslie's,Home Improvement Retail,2847915773
 LEU,Centrus Energy,"Oil, Gas & Consumable Fuels",643004068
 LEV,The Lion Electric Company,Farm & Heavy Construction Machinery,986115647
@@ -3299,8 +3173,6 @@ LFTR,Lefteris Acquisition,Blank Check / SPAC,257450183
 LFUS,Littelfuse,"Electronic Equipment, Instruments & C...",6159018871
 LFVN,LifeVantage,Personal Products,53885628
 LGAC,Lazard Growth Acquisition I,Blank Check / SPAC,708687480
-LGF.A,Lions Gate Entertainment,Entertainment,2499300088
-LGF.B,Lions Gate Entertainment,Entertainment,2497223935
 LGHL,Lion Group Holding,Capital Markets,66439199
 LGIH,LGI Homes,Household Durables,2606996427
 LGL,LGL Group,"Electronic Equipment, Instruments & C...",74728170
@@ -3338,13 +3210,11 @@ LITB,LightInTheBox Holding Co.,Internet & Direct Marketing Retail,112780008
 LITE,Lumentum Holdings,Communications Equipment,6382499815
 LITM,Snow Lake Resources,Other Industrial Metals & Mining,47992559
 LITT,Logistics Innovation Technologies,Shell Companies,415893120
-LIVB,LIV Capital Acquisition II,Blank Check / SPAC,126600000
 LIVE,Live Ventures,Household Durables,90420063
 LIVN,LivaNova,Health Care Equipment & Supplies,3402293714
 LIXT,Lixte Biotechnology Holdings,Biotechnology,12484950
 LIZI,Lizhi,Internet Content & Information,57917355
 LJAQ,LightJump Acquisition,Blank Check / SPAC,174568489
-LJPC,La Jolla Pharmaceutical Company,Biotechnology,154393007
 LKCO,Luokung Technology,Interactive Media & Services,109536271
 LKFN,Lakeland Financial,Banks,2000249208
 LKQ,LKQ Corporation,Distributors,15160048605
@@ -3412,7 +3282,6 @@ LSEA,Landsea Homes,Real Estate-Development,273383008
 LSF,Laird Superfood,Packaged Foods,19512878
 LSI,Life Storage,Equity Real Estate Investment Trusts ...,11357413289
 LSPD,Lightspeed Commerce,Software,3508399340
-LSPR,Larkspur Health Acquisition,Blank Check / SPAC,96926000
 LSTR,Landstar System,Road & Rail,5736586637
 LTBR,Lightbridge,Professional Services,77797036
 LTC,LTC Properties,Equity Real Estate Investment Trusts ...,1761148660
@@ -3456,7 +3325,6 @@ LYG,Lloyds Banking Group,Banks,38005956606
 LYL,Dragon Victory International,Consumer Finance,21946512
 LYLT,Loyalty Ventures,Software-Infrastructure,73096149
 LYRA,Lyra Therapeutics,Biotechnology,208144656
-LYT,Lytus Technologies Holdings PTV. LTD.,Software-Application,103305429
 LYTS,LSI Industries,Electrical Equipment,171391643
 LYV,Live Nation Entertainment,Entertainment,22176200635
 LZ,LegalZoom.com,Specialty Business Services,2271094522
@@ -3470,7 +3338,6 @@ MACA,Moringa Acquisition,Blank Check / SPAC,146618840
 MACC,Mission Advancement,Blank Check / SPAC,424350009
 MACK,Merrimack Pharmaceuticals,Biotechnology,56322835
 MAG,MAG Silver,Metals & Mining,1352180214
-MAIA,MAIA Biotechnology,Biotechnology,53711295
 MAIN,Main Street Capital,Capital Markets,3180897024
 MAN,ManpowerGroup,Professional Services,4197311202
 MANH,Manhattan Associates,Software,9278604182
@@ -3506,7 +3373,6 @@ MBUU,Malibu Boats,Leisure Products,1331881311
 MBWM,Mercantile Bank,Banks,565765365
 MC,Moelis & Company,Capital Markets,3210208000
 MCAA,Mountain & Co. I Acquisition,Blank Check / SPAC,292100000
-MCAC,Monterey Capital Acquisition,Blank Check / SPAC,134930250
 MCAE,Mountain Crest Acquisition III,Blank Check / SPAC,69946703
 MCAF,Mountain Crest Acquisition IV,Blank Check / SPAC,74857027
 MCAG,Mountain Crest Acquisition V,Blank Check / SPAC,89356400
@@ -3540,7 +3406,6 @@ MDRR,Medalist Diversified REIT,Equity Real Estate Investment Trusts ...,15459113
 MDRX,Allscripts Healthcare Solutions,Health Care Technology,1895668349
 MDT,Medtronic plc.,Health Care Equipment & Supplies,1.25596E+11
 MDU,MDU Resources Group,Multi-Utilities,6267277820
-MDV,Modiv,REIT-Diversified,119888347
 MDVL,MedAvail Holdings,Pharmaceutical Retailers,95961240
 MDWD,MediWound,Pharmaceuticals,64629631
 MDWT,Midwest Holding,Insurance-Life,55633565
@@ -3553,7 +3418,6 @@ MED,Medifast,Personal Products,1454583158
 MEDP,Medpace Holdings,Life Sciences Tools & Services,5536350138
 MEDS,TRxADE HEALTH,Pharmaceutical Retailers,12107937
 MEG,Montrose Environmental Group,Media,1310407408
-MEGL,Magic Empire Global,Financials,218000000
 MEI,Methode Electronics,"Electronic Equipment, Instruments & C...",1549320933
 MEIP,MEI Pharma,Biotechnology,69119207
 MEKA,MELI Kaszek Pioneer,Blank Check / SPAC,296655480
@@ -3576,11 +3440,9 @@ MFH,Mercurity Fintech Holding,Software,12859290
 MFIN,Medallion Financial,Consumer Finance,196577470
 MG,MISTRAS Group,Professional Services,195831339
 MGA,Magna International,Auto Components,18692952038
-MGAM,Mobile Global Esports,"Hotels, Restaurants & Leisure",73422302
 MGEE,MGE Energy,Electric Utilities,3003008736
 MGI,MoneyGram International,IT Services,1000133760
 MGIC,Magic Software Enterprises,Software,918355839
-MGLD,The Marygold Companies,Asset Management,57769052
 MGM,MGM Resorts International,"Hotels, Restaurants & Leisure",13723191273
 MGNI,Magnite,Internet & Direct Marketing Retail,1243911290
 MGNX,MacroGenics,Biotechnology,312825307
@@ -3594,7 +3456,6 @@ MHH,Mastech Digital,Professional Services,177411293
 MHK,Mohawk Industries,Household Durables,8012247518
 MHLD,Maiden Holdings,Insurance,196984989
 MHO,M/I Homes,Household Durables,1298085609
-MHUA,Meihua International Medical Technologies Co.,Medical Instruments & Supplies,88578000
 MICS,The Singing Machine Company,Consumer Electronics,24624432
 MICT,"MICT, Inc.",Aerospace & Defense,91965942
 MIDD,The Middleby Corporation,Machinery,8254195592
@@ -3669,8 +3530,6 @@ MOD,Modine Manufacturing Company,Auto Components,806178234
 MODN,Model N,Software,1181650427
 MODV,ModivCare,Health Care Providers & Services,1591651968
 MOFG,MidWestOne Financial Group,Banks,510946522
-MOG.A,Moog Inc.,Aerospace & Defense,2724607196
-MOG.B,Moog Inc.,Aerospace & Defense,2730878640
 MOGO,Mogo Inc.,Consumer Finance,95938751
 MOGU,"Mogu, Inc.",Internet & Direct Marketing Retail,17126222
 MOH,Molina Healthcare,Health Care Providers & Services,19080040328
@@ -3736,7 +3595,6 @@ MSI,Motorola Solutions,Communications Equipment,42101743511
 MSM,MSC Industrial Direct Company,Trading Companies & Distributors,4711103921
 MSN,Emerson Radio,Household Durables,14517357
 MSPR,MSP Recovery,Health Care Providers & Services,20727419
-MSSA,Metal Sky Star Acquisition,Blank Check / SPAC,145579480
 MSTR,MicroStrategy,Software,3808290291
 MSVB,Mid-Southern Bancorp,Thrifts & Mortgage Finance,38711373
 MT,ArcelorMittal,Metals & Mining,21495427062
@@ -3750,7 +3608,6 @@ MTCH,Match Group,Interactive Media & Services,18753480695
 MTCR,Metacrine,Biotechnology,21242181
 MTD,Mettler-Toledo International,Life Sciences Tools & Services,30311665160
 MTDR,Matador Resources Company,"Oil, Gas & Consumable Fuels",7116609500
-MTEK,Maris-Tech,Electronic Components,12314704
 MTEM,Molecular Templates,Biotechnology,49471451
 MTEX,"Mannatech,",Personal Products,40164211
 MTG,MGIC Investment,Thrifts & Mortgage Finance,4512152562
@@ -3776,7 +3633,6 @@ MUDS,Mudrick Capital Acquisition II,Blank Check / SPAC,400055743
 MUFG,Mitsubishi UFJ Financial Group,Banks,67425665019
 MULN,Mullen Automotive,Automobiles,397139487
 MUR,Murphy Oil,"Oil, Gas & Consumable Fuels",5431527400
-MURF,Murphy Canyon Acquisition,Blank Check / SPAC,150901200
 MUSA,Murphy USA,Specialty Retail,6725465515
 MUX,McEwen Mining,Metals & Mining,156035807
 MVBF,MVB Financial,Banks,422389660
@@ -3799,7 +3655,6 @@ MYPS,PLAYSTUDIOS,Electronic Gaming & Multimedia,515188000
 MYRG,MYR Group,Construction & Engineering,1638519677
 MYSZ,My Size,Software,5897731
 MYTE,MYT Netherlands Parent B.V.,Luxury Goods,1269066866
-NA,Nano Labs,Semiconductors,347212543
 NAAC,North Atlantic Acquisition,Blank Check / SPAC,468682519
 NAAS,NaaS Technology,Specialty Retail,1280676859
 NABL,N-able,Information Technology Services,1712847862
@@ -3937,7 +3792,6 @@ NODK,NI Holdings,Insurance,304979040
 NOG,Northern Oil & Gas,"Oil, Gas & Consumable Fuels",2347709439
 NOK,Nokia,Communications Equipment,29333082109
 NOMD,Nomad Foods,Food Products,3607185143
-NOTE,FiscalNote Holdings,Shell Companies,154228281
 NOTV,Inotiv,Life Sciences Tools & Services,612364800
 NOV,NOV Inc.,Energy Equipment & Services,7239340528
 NOVA,Sunnova Energy International,Independent Power and Renewable Elect...,3217303283
@@ -3997,11 +3851,9 @@ NTST,NetSTREIT,Equity Real Estate Investment Trusts ...,1117420150
 NTWK,NetSol Technologies,Software,37358300
 NTZ,Natuzzi S.p.A,Household Durables,86667732
 NU,Nu Holdings,Banks-Diversified,18808760317
-NUBI,Nubia Brand International,Blank Check / SPAC,136272000
 NUE,Nucor,Metals & Mining,37177798581
 NURO,NeuroMetrix,Health Care Equipment & Supplies,25313239
 NUS,Nu Skin Enterprises,Personal Products,2289798360
-NUTX, Nutex Health,Health Information Services,2492532222
 NUVA,NuVasive,Health Care Equipment & Supplies,2736846822
 NUVB,Nuvation Bio,Biotechnology,600171005
 NUVL,Nuvalent,Biotechnology,786712891
@@ -4011,7 +3863,6 @@ NVAC,NorthView Acquisition,Blank Check / SPAC,239271100
 NVAX,Novavax,Biotechnology,3155197174
 NVCN,Neovasc,Health Care Equipment & Supplies,21628276
 NVCR,Novocure,Health Care Equipment & Supplies,8645156812
-NVCT,Nuvectis Pharma,Biotechnology,125046949
 NVDA,NVIDIA,Semiconductors & Semiconductor Equipment,4.47115E+11
 NVEC,NVE Corporation,Semiconductors & Semiconductor Equipment,251154851
 NVEE,NV5 Global,Construction & Engineering,2043863338
@@ -4032,7 +3883,6 @@ NVT,nVent Electric,Electrical Equipment,5941956577
 NVTA,Invitae,Biotechnology,1061049727
 NVTS,Navitas Semiconductor,Semiconductors,662983802
 NVVE,Nuvve Holding,Specialty Retail,88126063
-NVX,NOVONIX,Electrical Equipment & Parts,1145631840
 NWBI,Northwest Bancshares,Thrifts & Mortgage Finance,1858733297
 NWE,NorthWestern,Multi-Utilities,3091063005
 NWFL,Norwood Financial,Banks,203165576
@@ -4108,7 +3958,6 @@ OIIM,O2Micro International,Semiconductors & Semiconductor Equipment,97960800
 OIS,Oil States International,Energy Equipment & Services,333552252
 OKE,ONEOK,"Oil, Gas & Consumable Fuels",29027829745
 OKTA,"Okta, Inc.",IT Services,16170770427
-OKYO,OKYO Pharma,Biotechnology,45281392
 OLB,The OLB Group,Software-Application,24700704
 OLED,Universal Display,Semiconductors & Semiconductor Equipment,5753448840
 OLIT,OmniLit Acquisition,Blank Check / SPAC,192529501
@@ -4196,7 +4045,6 @@ OSIS,OSI Systems,"Electronic Equipment, Instruments & C...",1681721514
 OSK,Oshkosh,Machinery,5659219412
 OSPN,OneSpan,Software,446633856
 OSS,One Stop Systems,"Technology Hardware, Storage & Periph...",78662271
-OST,Ostin Technology Group Co.,"Electronic Components, Nec",29699997
 OSTK,Overstock.com,Internet & Direct Marketing Retail,1418851453
 OSTR,Oyster Enterprises Acquisition,Blank Check / SPAC,283474970
 OSUR,OraSure Technologies,Health Care Equipment & Supplies,316619293
@@ -4277,7 +4125,6 @@ PBI,Pitney Bowes,Commercial Services & Supplies,589443006
 PBLA,Panbela Therapeutics,Biotechnology,28460380
 PBPB,Potbelly,"Hotels, Restaurants & Leisure",158717083
 PBR,Petroleo Brasileiro,"Oil, Gas & Consumable Fuels",98418491384
-PBR.A,Petroleo Brasileiro,"Oil, Gas & Consumable Fuels",95329348629
 PBT,Permian Basin Royalty Trust,"Oil, Gas & Consumable Fuels",918193399
 PBTS,Powerbridge Technologies Co.,Software,139793775
 PBYI,Puma Biotechnology,Biotechnology,161723789
@@ -4324,7 +4171,6 @@ PEI,Pennsylvania Real Estate Investment Trust,Equity Real Estate Investment Trus
 PEN,Penumbra,Health Care Equipment & Supplies,6435344740
 PENN,Penn National Gaming,"Hotels, Restaurants & Leisure",5644842978
 PEP,PepsiCo,Beverages,2.41569E+11
-PEPG,PepGen,Biotechnology,264677279
 PEPL,PepperLime Health Acquisition,Blank Check / SPAC,379440000
 PERI,Perion Network,Media,955504314
 PESI,Perma-Fix Environmental Services,Commercial Services & Supplies,72461559
@@ -4333,14 +4179,12 @@ PETQ,PetIQ,Health Care Providers & Services,453435326
 PETS,PetMed Express,Internet & Direct Marketing Retail,467557050
 PETV,PetVivo Holdings,Health Care Equipment & Supplies,22174159
 PETZ,TDH Holdings,Food Products,18716879
-PEV,Phoenix Motor,Auto Manufacturers,77420000
 PFBC,Preferred Bank,Banks,1053781780
 PFC,Premier Financial,Thrifts & Mortgage Finance,1003618873
 PFDR,Pathfinder Acquisition,Blank Check / SPAC,400968730
 PFE,Pfizer,Pharmaceuticals,2.7095E+11
 PFG,Principal Financial Group,Insurance,19580483547
 PFGC,Performance Food Group Company,Food & Staples Retailing,7875651569
-PFHC,ProFrac Holding,Oil & Gas Equipment & Services,755516800
 PFHD,Professional Holding,Banks,411859698
 PFIE,Profire Energy,Energy Equipment & Services,60672828
 PFIN,P&F Industries,Household Durables,18705985
@@ -4358,7 +4202,6 @@ PGEN,Precigen,Biotechnology,482907999
 PGNY,Progyny,Health Care Providers & Services,4081025266
 PGR,The Progressive Corporation,Insurance,70458859454
 PGRE,Paramount Group,Equity Real Estate Investment Trusts ...,1917212409
-PGRU,PropertyGuru Group,Real Estate Services,777037053
 PGRW,Progress Acquisition,Blank Check / SPAC,216039374
 PGSS,Pegasus Digital Mobility Acquisition,Blank Check / SPAC,249750000
 PGTI,PGT Innovations,Building Products,1378774123
@@ -4404,7 +4247,6 @@ PKX,POSCO,Metals & Mining,15127373821
 PL,Planet Labs PBC,Aerospace & Defense,1604061437
 PLAB,Photronics,Semiconductors & Semiconductor Equipment,1460566775
 PLAG,Planet Green Holdings,Food Products,62004851
-PLAO,Patria Latin American Opportunity Acquisition,Blank Check / SPAC,252000000
 PLAY,Dave & Buster's Entertainment,"Hotels, Restaurants & Leisure",2087558525
 PLBC,Plumas Bancorp,Banks,186441751
 PLBY,PLBY Group,"Textiles, Apparel & Luxury Goods",251694876
@@ -4440,7 +4282,6 @@ PMT,PennyMac Mortgage Investment Trust,Mortgage Real Estate Investment Trust...,
 PMTS,CPI Card Group,"Technology Hardware, Storage & Periph...",224972412
 PMVC,PMV Consumer Acquisition,Blank Check / SPAC,218093759
 PMVP,PMV Pharmaceuticals,Biotechnology,738173684
-PNAC,Prime Number Acquisition I,Blank Check / SPAC,86308920
 PNBK,Patriot National Bancorp,Banks,47487240
 PNC,The PNC Financial Services Group,Banks,70516719528
 PNFP,Pinnacle Financial Partners,Banks,6438132165
@@ -4478,7 +4319,6 @@ PPIH,Perma-Pipe International Holdings,Machinery,75866414
 PPL,PPL Corporation,Electric Utilities,21665925109
 PPSI,Pioneer Power Solutions,Electrical Equipment,34720344
 PPTA,Perpetua Resources,Other Precious Metals & Mining,173216719
-PPYA,Papaya Growth Opportunity I,Blank Check / SPAC,377008666
 PRA,ProAssurance,Insurance,1248152555
 PRAA,PRA Group,Consumer Finance,1514392176
 PRAX,Praxis Precision Medicines,Biotechnology,193242655
@@ -4498,7 +4338,6 @@ PRIM,Primoris Services,Construction & Engineering,1175937525
 PRK,Park National,Banks,2187436538
 PRLB,Proto Labs,Machinery,1285769971
 PRLD,Prelude Therapeutics,Biotechnology,396979519
-PRLH,Pearl Holdings Acquisition,Blank Check / SPAC,249250000
 PRM,Perimeter Solutions,Specialty Chemicals,1777622399
 PRO,PROS Holdings,Software,1231403517
 PROC,Procaps Group,Drug Manufacturers-Specialty & Generic,902592000
@@ -4575,7 +4414,6 @@ PWOD,Penns Woods Bancorp,Banks,162201520
 PWP,Perella Weinberg Partners,Capital Markets,688450107
 PWR,Quanta Services,Construction & Engineering,20202000303
 PWSC,PowerSchool Holdings,Software-Application,2753828347
-PWUP,PowerUp Acquisition,Blank Check / SPAC,361171864
 PX,"P10, Inc.",Capital Markets,1435614201
 PXD,Pioneer Natural Resources Company,"Oil, Gas & Consumable Fuels",54530637759
 PXLW,Pixelworks,Semiconductors & Semiconductor Equipment,113395791
@@ -4630,7 +4468,6 @@ R,Ryder System,Road & Rail,4235337696
 RAAS,Cloopen Group Holding,Software-Application,159438911
 RACB,Research Alliance II,Blank Check / SPAC,188411420
 RACE,Ferrari,Automobiles,40049905643
-RACY,Relativity Acquisition,Blank Check / SPAC,186969899
 RAD,Rite Aid,Food & Staples Retailing,588531512
 RADA,RADA Electronic Industries,Aerospace & Defense,546893567
 RADI,Radius Global Infrastructure,Telecom Services,1472029557
@@ -4644,7 +4481,6 @@ RAPT,Rapt Therapeutics,Biotechnology,722196072
 RARE,Ultragenyx Pharmaceutical,Biotechnology,3589390817
 RAVE,Rave Restaurant Group,"Hotels, Restaurants & Leisure",24846761
 RBA,Ritchie Bros. Auctioneers,Commercial Services & Supplies,7748943300
-RBAC,RedBall Acquisition,Blank Check / SPAC,718750010
 RBB,RBB Bancorp,Banks,427956727
 RBBN,Ribbon Communications,Communications Equipment,487470972
 RBCAA,Republic Bancorp,Banks,877718757
@@ -4653,7 +4489,6 @@ RBKB,Rhinebeck Bancorp,Thrifts & Mortgage Finance,106183330
 RBLX,Roblox,Entertainment,29398646765
 RBOT,Vicarious Surgical,Medical Devices,529468923
 RC,Ready Capital,Mortgage Real Estate Investment Trust...,2058686968
-RCAC,Revelstone Capital Acquisition,Blank Check / SPAC,203775000
 RCAT,Red Cat Holdings,Computer Hardware,108154079
 RCEL,AVITA Medical,Biotechnology,196899676
 RCFA,RCF Acquisition,Blank Check / SPAC,287787510
@@ -4696,7 +4531,6 @@ RELI,Reliance Global Group,Insurance Brokers,13006460
 RELL,Richardson Electronics,"Electronic Equipment, Instruments & C...",228124096
 RELX,Relx PLC,Professional Services,55885631466
 RELY,Remitly Global,Software-Infrastructure,1940184191
-RENE,Cartesian Growth Corporation II,Blank Check / SPAC,289224969
 RENN,Renren,Specialty Retail,719142138
 RENO,Renovare Environmental,Pollution & Treatment Controls,2375965
 RENT,Rent The Runway,Apparel Retail,340232924
@@ -4716,7 +4550,6 @@ REXR,Rexford Industrial Realty,Equity Real Estate Investment Trusts ...,11757754
 REYN,Reynolds Consumer Products,Packaging & Containers,6020969957
 REZI,Resideo Technologies,Building Products,3391593709
 RF,Regions Financial,Banks,21154725870
-RFAC,RF Acquisition,Blank Check / SPAC,136041000
 RFIL,RF Industries,"Electronic Equipment, Instruments & C...",71905896
 RFL,Rafael Holdings,Real Estate Management & Development,50942323
 RFP,Resolute Forest Products,Paper & Forest Products,1574348791
@@ -4843,10 +4676,8 @@ RVNC,Revance Therapeutics,Pharmaceuticals,1560150250
 RVP,Retractable Technologies,Health Care Equipment & Supplies,155457920
 RVPH,Reviva Pharmaceuticals Holdings,Biotechnology,9600565
 RVSB,Riverview Bancorp,Thrifts & Mortgage Finance,156674448
-RVSN,Rail Vision,Industrials,15835694
 RWAY,Runway Growth Finance,Credit Services,553516726
 RWLK,ReWalk Robotics,Health Care Equipment & Supplies,66331191
-RWOD,Redwoods Acquisition,Blank Check / SPAC,140673257
 RWT,Redwood Trust,Mortgage Real Estate Investment Trust...,969157816
 RXDX,Prometheus Biosciences,Biotechnology,1846221042
 RXRA,RXR Acquisition,Blank Check / SPAC,424781279
@@ -4868,13 +4699,11 @@ SABS,SAB Biotherapeutics,Biotechnology,48146110
 SACH,Sachem Capital,Thrifts & Mortgage Finance,181941195
 SAFE,Safehold,Equity Real Estate Investment Trusts ...,2814601724
 SAFT,Safety Insurance Group,Insurance,1373786546
-SAGA,Sagaliam Acquisition,Blank Check / SPAC,142234512
 SAGE,Sage Therapeutics,Biotechnology,2494548195
 SAH,Sonic Automotive,Specialty Retail,1917741672
 SAI,SAI.TECH Global,Software Publishers,108308644
 SAIA,"Saia, Inc.",Road & Rail,6682160100
 SAIC,Science Applications International,IT Services,5143503276
-SAIL,SailPoint Technologies Holdings,Software,6068847040
 SAL,Salisbury Bancorp,Banks,136501692
 SALM,Salem Media Group,Media,68037000
 SAM,The Boston Beer Company,Beverages,4706235569
@@ -4933,7 +4762,6 @@ SCOR,Comscore,Media,206050223
 SCPH,scPharmaceuticals,Pharmaceuticals,160944414
 SCPL,SciPlay,Entertainment,318441907
 SCPS,Scopus Biopharma,Biotechnology,9083204
-SCRM,Screaming Eagle Acquisition,Blank Check / SPAC,905624951
 SCS,Steelcase,Commercial Services & Supplies,1326081143
 SCSC,ScanSource,"Electronic Equipment, Instruments & C...",815501439
 SCTL,Societal CDMO,Drug Manufacturers-Specialty & Generic,66786473
@@ -4994,7 +4822,6 @@ SGEN,Seagen,Biotechnology,32099067748
 SGFY,Signify Health,Health Information Services,6577769459
 SGH,SMART Global Holdings,Semiconductors & Semiconductor Equipment,958836989
 SGHC,Super Group (SGHC),Gambling,2436279035
-SGHL,Signal Hill Acquisition,Blank Check / SPAC,125000000
 SGHT,Sight Sciences,Medical Devices,466860862
 SGII,Seaport Global Acquisition II,Blank Check / SPAC,179688000
 SGLY,Singularity Future Technology,Integrated Freight & Logistics,73414198
@@ -5007,7 +4834,6 @@ SGTX,Sigilon Therapeutics,Biotechnology,24283273
 SGU,Star Group,Gas Utilities,349914717
 SHAC,SCP & CO Healthcare Acquisition Company,Blank Check / SPAC,283762509
 SHAK,Shake Shack,"Hotels, Restaurants & Leisure",2188662500
-SHAP,Spree Acquisition 1,Blank Check / SPAC,252250000
 SHBI,Shore Bancshares,Banks,391632608
 SHC,Sotera Health Company,Diagnostics & Research,5655210999
 SHCA,Spindletop Health Acquisition,Blank Check / SPAC,259723830
@@ -5024,7 +4850,6 @@ SHOO,Steven Madden,"Textiles, Apparel & Luxury Goods",2664680186
 SHOP,Shopify,IT Services,51267919842
 SHPW,Shapeways Holdings,Specialty Industrial Machinery,47479851
 SHQA,Shelter Acquisition I,Blank Check / SPAC,274011351
-SHUA,SHUAA Partners Acquisition Corp I,Blank Check / SPAC,125312500
 SHW,The Sherwin-Williams Company,Chemicals,63238061877
 SHYF,The Shyft Group,Machinery,964411250
 SI,Silvergate Capital,Banks,3215431859
@@ -5062,7 +4887,6 @@ SJR,Shaw Communications,Media,13537280997
 SJT,San Juan Basin Royalty Trust,"Oil, Gas & Consumable Fuels",625023994
 SJW,SJW Group,Water Utilities,1990903548
 SKE,Skeena Resources,Other Industrial Metals & Mining,363317728
-SKGR,SK Growth Opportunities,Blank Check / SPAC,249750000
 SKIL,Skillsoft,Education & Training Services,721362430
 SKIN,The Beauty Health Company,Household & Personal Products,2089341943
 SKLZ,Skillz,Entertainment,741936190
@@ -5074,7 +4898,6 @@ SKYA,Skydeck Acquisition,Blank Check / SPAC,271533500
 SKYH,Sky Harbour Group,Independent Power and Renewable Elect...,421125661
 SKYT,SkyWater Technology,Semiconductors,607073148
 SKYW,SkyWest,Airlines,1196902639
-SKYX,SQL Technologies,Electrical Equipment & Parts,270503421
 SLAB,Silicon Laboratories,Semiconductors & Semiconductor Equipment,4906965430
 SLAC,Social Leverage Acquisition I,Blank Check / SPAC,425212480
 SLAM,Slam Corp.,Blank Check / SPAC,709406269
@@ -5089,7 +4912,6 @@ SLGC,SomaLogic,Health Information Services,803903292
 SLGG,Super League Gaming,Interactive Media & Services,41031259
 SLGL,Sol-Gel Technologies,Pharmaceuticals,148028800
 SLGN,Silgan Holdings,Containers & Packaging,4972945920
-SLHG,Skylight Health Group,Medical Care Facilities,28245357
 SLI,Standard Lithium,Other Industrial Metals & Mining,1087693180
 SLM,SLM Corporation,Consumer Finance,4009574640
 SLN,Silence Therapeutics,Biotechnology,2804278010
@@ -5109,9 +4931,7 @@ SMAR,Smartsheet,Software,4638193643
 SMBC,Southern Missouri Bancorp,Thrifts & Mortgage Finance,497894801
 SMBK,SmartFinancial,Banks,441386208
 SMCI,Super Micro Computer,"Technology Hardware, Storage & Periph...",3333461246
-SMED,Sharps Compliance,Health Care Providers & Services,168458975
 SMFG,Sumitomo Mitsui Financial Group,Banks,42840498175
-SMFL,Smart for Life,Packaged Foods,20113506
 SMFR,Sema4 Holdings,Health Information Services,818630334
 SMG,The Scotts Miracle-Gro Company,Chemicals,4542730724
 SMHI,Seacor Marine Holdings,Energy Equipment & Services,177325834
@@ -5124,7 +4944,6 @@ SMMF,Summit Financial Group,Banks,380484170
 SMMT,Summit Therapeutics,Biotechnology,106953416
 SMP,Standard Motor Products,Auto Components,842230060
 SMPL,The Simply Good Foods Company,Food Products,3379491300
-SMR,NuScale Power,Utilities-Renewable,649843838
 SMRT,SmartRent,Software-Application,1095812604
 SMSI,Smith Micro Software,Software,167698864
 SMTC,Semtech,Semiconductors & Semiconductor Equipment,3328141054
@@ -5181,13 +5000,11 @@ SOPA,Society Pass,Software-Application,61726178
 SOPH,SOPHiA GENETICS,Health Information Services,322771775
 SOS,SOS Limited,Professional Services,44368794
 SOTK,Sono-Tek,"Electronic Equipment, Instruments & C...",83834481
-SOUN,SoundHound AI,Software-Application,700237628
 SOVO,Sovos Brands,Packaged Foods,1393594747
 SP,SP Plus,Commercial Services & Supplies,827705263
 SPB,Spectrum Brands Holdings,Household Products,2876353218
 SPCB,SuperCom,"Electronic Equipment, Instruments & C...",10348765
 SPCE,Virgin Galactic Holdings,Aerospace & Defense,1805830783
-SPCM,"Sound Point Acquisition Corp I,",Blank Check / SPAC,277200000
 SPFI,South Plains Financial,Banks,442394314
 SPG,Simon Property Group,Equity Real Estate Investment Trusts ...,42738720741
 SPGI,S&P Global,Capital Markets,1.28788E+11
@@ -5248,7 +5065,6 @@ SSB,South State,Banks,6326392789
 SSBI,Summit State Bank,Banks,100988196
 SSBK,Southern States Bancshares,Banks-Regional,204253070
 SSD,Simpson Manufacturing Company,Building Products,4445255070
-SSIC,Silver Spike Investment,Drug Manufacturers-Specialty & Generic,56186831
 SSKN,STRATA Skin Sciences,Health Care Equipment & Supplies,37153611
 SSL,Sasol,Chemicals,13838903274
 SSNC,SS&C Technologies Holdings,Software,15890670558
@@ -5305,7 +5121,6 @@ STRS,Stratus Properties,Real Estate Management & Development,280546585
 STRT,STRATTEC Security,Auto Components,121090827
 STRY,Starry Group Holdings,Telecom Services,128646439
 STSA,Satsuma Pharmaceuticals,Pharmaceuticals,182649024
-STSS,Sharps Technology,Medical Instruments & Supplies,11133125
 STT,State Street,Capital Markets,27023673278
 STTK,Shattuck Labs,Biotechnology,157237212
 STVN,Stevanato Group S.p.A.,Medical Instruments & Supplies,4791070199
@@ -5334,7 +5149,6 @@ SVFD,Save Foods,Agricultural Inputs,16860513
 SVM,Silvercorp Metals,Metals & Mining,474145981
 SVNA,7 Acquisition,Blank Check / SPAC,250500000
 SVRA,Savara,Biotechnology,193869711
-SVRE,SaverOne 2014,Scientific & Technical Instruments,10938652
 SVT,Servotronics,Electrical Equipment,27535674
 SVVC,Firsthand Technology Value Fund,Securities and Commodity Exchanges,10891034
 SWAG,"Software Acquisition Group, Inc. III",Blank Check / SPAC,288804284
@@ -5370,7 +5184,6 @@ SYPR,Sypris Solutions,Auto Components,47327386
 SYRS,Syros Pharmaceuticals,Biotechnology,58579771
 SYTA,Siyata Mobile,Communications Equipment,12651322
 SYY,Sysco,Food & Staples Retailing,41840975812
-SZZL,Sizzle Acquisition,Blank Check / SPAC,218794519
 T,"AT&T, Inc.",Diversified Telecommunication Services,1.28553E+11
 TA,TravelCenters of America,Specialty Retail,802075440
 TAC,TransAlta,Independent Power and Renewable Elect...,2711944950
@@ -5405,7 +5218,6 @@ TC,TuanChe,Internet Content & Information,44654190
 TCBC,TC Bancshares,Banks-Regional,68380966
 TCBI,Texas Capital Bancshares,Banks,3141725684
 TCBK,TriCo Bancshares,Banks,1586288248
-TCBP,TC BioPharm (Holdings),Biotechnology,11545487
 TCBS,Texas Community Bancshares,Banks-Regional,51309720
 TCBX,Third Coast Bancshares,Banks-Regional,253798285
 TCDA,Tricida,Pharmaceuticals,727728950
@@ -5449,7 +5261,6 @@ TER,Teradyne,Semiconductors & Semiconductor Equipment,15662522299
 TERN,Terns Pharmaceuticals,Biotechnology,61126758
 TESS,TESSCO Technologies,Communications Equipment,49499776
 TETC,Tech & Energy Transition,Blank Check / SPAC,472587480
-TETE,Technology & Telecommunication Acquisition,Blank Check / SPAC,130319199
 TEVA,Teva Pharmaceutical Industries,Pharmaceuticals,12316110843
 TEX,Terex,Machinery,2518770148
 TFC,Truist Financial,Banks,67672420351
@@ -5459,15 +5270,12 @@ TFSL,TFS Financial,Thrifts & Mortgage Finance,4267667445
 TFX,Teleflex,Health Care Equipment & Supplies,11907848003
 TG,Tredegar,Chemicals,384342075
 TGA,TransGlobe Energy,"Oil, Gas & Consumable Fuels",249703660
-TGAA,Target Global Acquisition I,Blank Check / SPAC,267815146
 TGAN,Transphorm,Semiconductor Equipment & Materials,315761023
 TGB,Taseko Mines,Metals & Mining,329333535
 TGH,Textainer Group Holdings,Trading Companies & Distributors,1593191655
 TGI,Triumph Group,Aerospace & Defense,961558974
-TGL,Treasure Global,Information Technology,282966880
 TGLS,Tecnoglass,Construction Materials,1213800306
 TGNA,Tegna,Media,4785731057
-TGR,Kimbell Tiger Acquisition,Blank Check / SPAC,252861294
 TGS,Transportadora de Gas del Sur,"Oil, Gas & Consumable Fuels",934900478
 TGT,Target,Multiline Retail,78642847705
 TGTX,TG Therapeutics,Biotechnology,1086151290
@@ -5541,7 +5349,6 @@ TNET,TriNet Group,Professional Services,5538708449
 TNGX,Tango Therapeutics,Biotechnology,448277244
 TNK,Teekay Tankers,"Oil, Gas & Consumable Fuels",851084025
 TNL,Travel + Leisure Co.,"Hotels, Restaurants & Leisure",3835808753
-TNON,Tenon Medical,Medical Devices,27193056
 TNP,Tsakos Energy Navigation,"Oil, Gas & Consumable Fuels",401416800
 TNXP,Tonix Pharmaceuticals Holding,Biotechnology,58993707
 TNYA,Tenaya Therapeutics,Biotechnology,225556973
@@ -5549,7 +5356,6 @@ TOAC,Talon 1 Acquisition,Blank Check / SPAC,291237500
 TOI,The Oncology Institute,Medical Care Facilities,550970751
 TOL,Toll Brothers,Household Durables,5690211828
 TOMZ,TOMI Environmental Solutions,Commercial Services & Supplies,21903297
-TOP,Zhong Yang Financial Group,Capital Markets,674712500
 TOPS,Top Ships,"Oil, Gas & Consumable Fuels",21458183
 TOST,Toast,Software-Infrastructure,9290621945
 TOUR,Tuniu,"Hotels, Restaurants & Leisure",116915575
@@ -5565,7 +5371,6 @@ TPIC,TPI Composites,Electrical Equipment,892277933
 TPL,Texas Pacific Land,"Oil, Gas & Consumable Fuels",13472444957
 TPR,Tapestry,"Textiles, Apparel & Luxury Goods",8938971106
 TPST,Tempest Therapeutics,Biotechnology,23742900
-TPTX,Turning Point Therapeutics,Biotechnology,3755572425
 TPVG,TriplePoint Venture Growth BDC,Capital Markets,476737780
 TPX,Tempur Sealy International,Household Durables,4911001599
 TR,Tootsie Roll Industries,Food Products,2410360566
@@ -5644,7 +5449,6 @@ TTSH,Tile Shop Holdings,Specialty Retail,203803087
 TTWO,Take-Two Interactive Software,Entertainment,20114603935
 TU,TELUS,Diversified Telecommunication Services,32242849788
 TUEM,Tuesday Morning,Discount Stores,24992501
-TUFN,Tufin Software Technologies,Software,473267322
 TUP,Tupperware Brands,Household Durables,507303421
 TURN,180 Degree Capital,Capital Markets,64950361
 TUSK,Mammoth Energy Services,Energy Equipment & Services,182152351
@@ -5672,7 +5476,6 @@ TXMD,TherapeuticsMD,Pharmaceuticals,84845741
 TXN,Texas Instruments,Semiconductors & Semiconductor Equipment,1.66349E+11
 TXRH,Texas Roadhouse,"Hotels, Restaurants & Leisure",6163215314
 TXT,Textron,Aerospace & Defense,14181105615
-TYDE,Cryptyde,Packaging & Containers,22742158
 TYG,Tortoise Energy Infrastructure,Asset Management,414136688
 TYL,Tyler Technologies,Software,16932818837
 TYME,Tyme Technologies,Biotechnology,57189947
@@ -5763,7 +5566,6 @@ USB,U.S. Bancorp,Banks,71971176418
 USCB,USCB Financial Holdings,Banks-Regional,260610410
 USCT,TKB Critical Technologies 1,Blank Check / SPAC,289800000
 USDP,USD Partners LP,"Oil, Gas & Consumable Fuels",176243232
-USEA,United Maritime,Marine Shipping,17192280
 USEG,U.S. Energy,"Oil, Gas & Consumable Fuels",90129429
 USER,UserTesting,Software-Application,655104509
 USFD,US Foods Holding,Food & Staples Retailing,7272012257
@@ -5806,7 +5608,6 @@ VBFC,Village Bank & Trust Financial,Banks,76760320
 VBIV,VBI Vaccines,Biotechnology,284082687
 VBLT,Vascular Biogenics,Biotechnology,17351093
 VBNK,VersaBank,Banks-Regional,204710606
-VBOC,Viscogliosi Brothers Acquisition,Blank Check / SPAC,95790000
 VBTX,Veritex Holdings,Banks,1767733617
 VC,Visteon,Auto Components,3648842475
 VCEL,Vericel,Biotechnology,1277580267
@@ -5815,11 +5616,9 @@ VCNX,Vaccinex,Biotechnology,46077228
 VCSA,Vacasa,Software-Application,1756019326
 VCTR,Victory Capital Holdings,Capital Markets,2021284086
 VCXA,10x Capital Venture Acquisition II,Blank Check / SPAC,271304471
-VCXB,10x Capital Venture Acquisition III,Blank Check / SPAC,413176119
 VCYT,Veracyte,Biotechnology,1824469741
 VECO,Veeco Instruments,Semiconductors & Semiconductor Equipment,1143696381
 VECT,VectivBio Holding AG,Biotechnology,246614040
-VEDU,Visionary Education Technology Holdings Group,Education & Training Services,53772500
 VEEE,"Twin Vee PowerCats, Co.",Recreational Vehicles,28000000
 VEEV,Veeva Systems,Health Care Technology,34786377651
 VEL,Velocity Financial,Thrifts & Mortgage Finance,382831802
@@ -5886,7 +5685,6 @@ VLTA,Volta,Specialty Retail,440304094
 VLY,Valley National Bancorp,Banks,6303945213
 VMAR,Vision Marine Technologies,Leisure Products,53822585
 VMC,Vulcan Materials Company,Construction Materials,23338743731
-VMCA,Valuence Merger I,Blank Check / SPAC,252000000
 VMD,Viemed Healthcare,Health Care Providers & Services,240172589
 VMEO,Vimeo,Software-Application,1212932091
 VMGA,VMG Consumer Acquisition,Blank Check / SPAC,287787510
@@ -5911,7 +5709,6 @@ VPG,Vishay Precision Group,"Electronic Equipment, Instruments & C...",470670615
 VQS,VIQ Solutions,Software-Application,36450594
 VRA,Vera Bradley,"Textiles, Apparel & Luxury Goods",144079004
 VRAR,The Glimpse Group,Software-Infrastructure,78772127
-VRAX,Virax Biolabs Group,Biotechnology,80073664
 VRAY,ViewRay,Health Care Equipment & Supplies,646205692
 VRCA,Verrica Pharmaceuticals,Pharmaceuticals,149171583
 VRDN,Viridian Therapeutics,Biotechnology,382605366
@@ -5982,7 +5779,6 @@ WATT,Energous,Electrical Equipment,104809488
 WAVC,Waverley Capital Acquisition 1,Blank Check / SPAC,261873290
 WAVD,WaveDancer,Information Technology Services,21666892
 WAVE,Eco Wave Power Global AB (publ),Software,29322818
-WAVS,Western Acquisition Ventures,Blank Check / SPAC,146919960
 WB,Weibo,Interactive Media & Services,4631883764
 WBA,Walgreens Boots Alliance,Food & Staples Retailing,34630778871
 WBD,Warner Bros. Discovery,Entertainment,33209430009
@@ -6056,7 +5852,6 @@ WMS,Advanced Drainage Systems,Building Products,12063503297
 WMT,Walmart,Food & Staples Retailing,3.55856E+11
 WNC,Wabash National,Machinery,893812864
 WNEB,Western New England Bancorp,Thrifts & Mortgage Finance,198094152
-WNNR,Andretti Acquisition,Blank Check / SPAC,290662489
 WNS,WNS (Holdings),IT Services,4173637098
 WNW,Wunong Net Technology Company,Internet Retail,22682535
 WOLF,Wolfspeed,Semiconductors,10544829405
@@ -6139,14 +5934,12 @@ XOMA,XOMA Corporation,Biotechnology,235084924
 XOS,"Xos, Inc.",Farm & Heavy Construction Machinery,330998016
 XP,XP Inc.,Capital Markets,10511538160
 XPAX,XPAC Acquisition,Blank Check / SPAC,269298234
-XPDB,Power & Digital Infrastructure Acquisition II,Blank Check / SPAC,355062490
 XPEL,"XPEL, Inc.",Auto Components,2218401232
 XPER,Xperi Holding,Semiconductors & Semiconductor Equipment,1686917114
 XPEV,XPeng,Automobiles,21035988976
 XPL,Solitario Zinc,Metals & Mining,33362457
 XPO,XPO Logistics,Air Freight & Logistics,6627454457
 XPOF,Xponential Fitness,Leisure,795191479
-XPON,Expion360,Electrical Equipment & Parts,25668313
 XPRO,Expro Group Holdings,Oil & Gas Equipment & Services,1435966590
 XRAY,Dentsply Sirona,Health Care Equipment & Supplies,8008350170
 XRTX,XORTX Therapeutics,Biotechnology,18835065
@@ -6172,7 +5965,6 @@ YMM,Full Truck Alliance Co.,Software-Application,9066712057
 YMTX,Yumanity Therapeutics,Biotechnology,18021790
 YNDX,Yandex,Interactive Media & Services,6797281786
 YORW,The York Water Company,Water Utilities,622741498
-YOTA,Yotta Acquisition,Blank Check / SPAC,145271595
 YOU,Clear Secure,Software-Application,4296314352
 YPF,YPF Sociedad Anonima,"Oil, Gas & Consumable Fuels",1608650239
 YQ,17 Education & Technology Group,Interactive Media & Services,101097014
@@ -6199,13 +5991,11 @@ ZEST,Ecoark Holdings,Software,52404661
 ZETA,Zeta Global Holdings,Software-Application,1475239290
 ZEUS,Olympic Steel,Metals & Mining,332495676
 ZEV,Lightning eMotors,Farm & Heavy Construction Machinery,282817311
-ZFOX,ZeroFox Holdings,Shell Companies,354867986
 ZG,Zillow Group,Interactive Media & Services,9288374241
 ZGN,Ermenegildo Zegna,Apparel Manufacturing,2704559095
 ZH,Zhihu,Internet Content & Information,900630719
 ZI,ZoomInfo Technologies,Interactive Media & Services,19696037854
 ZIM,ZIM Integrated Shipping Services,Marine,6367986123
-ZIMV,ZimVie,Medical Devices,463251822
 ZING,FTAC Zeus Acquisition,Blank Check / SPAC,555339513
 ZION,Zions Bancorporation NA,Banks,8614465494
 ZIP,ZipRecruiter,Staffing & Employment Services,2389001970

@@ -1,9 +1,13 @@
 
-from .tokenize import tokenize
+from .tokenizer import (
+    sanitize,
+    tokenize,
+)
 
 
 __all__ = [
 
     # tokenize.py
-    "tokenize",
+    'sanitize',
+    'tokenize',
 ]

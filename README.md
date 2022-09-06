@@ -1,4 +1,4 @@
-# Cadance
+# Cadance V0.02
 
 People typically say that you can't predict the stock market using past data,
 and they would be right under a certain lens. You will almost certainly never
@@ -19,36 +19,36 @@ interesting will happen.
 | `-p`        | `--predict`  | A single symbol or a list from the `stock.csv` path | Predict the given stocks next-day closing price                                                                       |
 
 
-## Information that Cadance uses per stock:
+## Information that Cadance uses:
 
- 1. Open
- 2. Close
- 3. High
- 4. Low
- 5. Adjusted close
- 6. Volume
- 7. EMA, lengths 10, 25, 50 (Exponential Moving Avg.)
- 8. RSI, lengths 10, 25 (Relative Strength Index)
- 9. PGO, lengths 10, 25 (Pretty Good Oscillator)
- 10. VIA, lengths 15, 30 (Relative Vigor Index line A)
- 11. VIB, lengths 15, 30 (Relative Vigor Index line B)
- 12. ETP, lengths 10, 25 (Entropy)
- 13. MAD, lengths 10, 25 (Mean Absolute Deviation)
- 14. SIN, lengths 25, 50 (Sinewave `ebsw` in `pandas_ta`)
- 15. LIN, lengths 10, 90 (Linear Regression)
- 16. NAT, length 30 (Normalized Avg. True range volatility)
- 17. BOP (Balance Of Power)
- 18. Previous predictions and their accuracy are based
-       on a certain amount of tolerance. E.G. Lesser
-       tolerance, such as 3%, would yield stricter results
-       than per se, 15%.
- 19. News sentiment scraped on each specific stock
- 20. If we are currently in an economic boom or recession
- 21. The current US GDP and its percent change since last month
- 22. The current US employment rate and its percent change since last month
+ - `Open`
+ - `Close`
+ - `Adjusted Close`
+ - `High`
+ - `Low`
+ - Previous prediction results and their accuracy denoted by an error tolerance
+ - Sentiment news analysis done by another neural network
+ - The current US GDP percent change since the last month
+ - The current US employment rate percent change since the last month
+
+### The current list of utilized indicators:
+
+| Indicators | Information                           | Length(s)        |
+|-----------|---------------------------------------|------------------|
+| EMA       | Exponential Moving Avg.               | `10`, `25`, `50` |
+| RSI       | Relative Strength Index               | `10`, `25`       |
+| PGO       | Pretty Good Oscillator                | `10`, `25`       |
+| VIA       | Relative Vigor Index line A           | `15`, `30`       |
+| VIB       | Relative Vigor Index line B           | `15`, `30`       |
+| ETP       | Entropy                               | `10`, `25`       |
+| MAD       | Mean Abs. Deviation                   | `10`, `25`       |
+| SIN       | "Even Better" Sinewave (`ebsw`)       | `25`, `50`       |
+| LIN       | Linear Regression                     | `10`, `90`       |
+| NAT       | Normalized Avg. True Range Volatility | `30`             |
+| BOP       | Balance of Power                      |                  |
 
 
-## Dataset information:
+# Dataset information:
 
 ### `datasets/lits/stocks.csv`
 This dataset was downloaded from stockanalysis.com/stocks/ using a free-trail account.
@@ -56,8 +56,7 @@ This dataset was downloaded from stockanalysis.com/stocks/ using a free-trail ac
 It takes about `2-3` hours to download using `python main.py -d datasets/lits/stocks.csv`,
 and is currently about `5.3gb` large.
 
-
-NOTE:
+### NOTE:
 
  - The original download was renamed from `stock-list.csv` to `stocks.csv`
 

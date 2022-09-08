@@ -13,10 +13,10 @@ interesting will happen.
 ## Command-line arguments:
 | Short Name: | Long Name:   | Parameters:                                         | Use-case:                                                                                                             |
 |-------------|--------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| `-d`        | `--download` | A single symbol or a list from the `stock.csv` path | Download & format specific stock data from a symbol the `stock.csv` path                                              |
-| `-c`        | `--collect`  | `news`, or `daily`                                  | Collect news articles for sentiment analysis, or daily stock data that contains more information than historical data |
-| `-t`        | `--train`    | `news`, `cadance`, or `trader`                      | Train one of the three ML models off of data from `datasets/`                                                         |
-| `-p`        | `--predict`  | A single symbol or a list from the `stock.csv` path | Predict the given stocks next-day closing price                                                                       |
+| -d        | --download | A single symbol or a list from the `stock.csv` path | Download & format specific stock data from a symbol the `stock.csv` path                                              |
+| -c        | --collect  | `news`, or `daily`                                  | Collect news articles for sentiment analysis, or daily stock data that contains more information than historical data |
+| -t        | --train    | `news`, `cadance`, or `trader`                      | Train one of the three ML models off of data from `datasets/`                                                         |
+| -p        | --predict  | A single symbol or a list from the `stock.csv` path | Predict the given stocks next-day closing price                                                                       |
 
 
 ## Information that Cadance uses:
@@ -51,7 +51,7 @@ interesting will happen.
 # Dataset information:
 
 ### `datasets/lits/stocks.csv`
-This dataset was downloaded from stockanalysis.com/stocks/ using a free-trail account.
+This dataset was downloaded from `stockanalysis.com/stocks` using a free-trail account.
 
 It takes about `2-3` hours to download using `python main.py -d datasets/lits/stocks.csv`,
 and is currently about `5.3gb` large.
@@ -69,3 +69,9 @@ and is currently about `5.3gb` large.
    A lot of stocks were also too new to have enough data to work with.
 
  - The current `stocks.csv` file has been curated so that none of these stocks are in it
+
+### `datasets/lists/gdp.csv`
+This dataset was downloaded from `https://fred.stlouisfed.org/series/A191RP1Q027SBEA`
+and in order to download it, use the `download_gdp` function inside of `stocker`
+
+This dataset is about 500kB large, and takes about 30 seconds to download and expand

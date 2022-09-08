@@ -46,6 +46,29 @@ def drop_col_if_exists(df: pd.DataFrame, col: str) -> pd.DataFrame:
     return df
 
 
+def expand_dates(df: pd.DataFrame):
+    day = dt.datetime(int(df['DATE'][0].split('-')[0]), 1, 1)
+    end_date = dt.datetime.now()
+    df_res: pd.DataFrame = pd.DataFrame(columns=df.columns)
+    value: float = 0.0
+    while day <= end_date:
+
+        # Update the current GDP
+        new_value = df.loc[
+            df['DATE'] == day.strftime('%Y-%m-%d'),
+            df.iloc[:, 1]
+        ]
+
+        if new_value.shape[0] > 0:
+            value = new_value.tail(1).item()
+
+        # Append new rows
+        df_res.loc[len(df_res)] = [day.strftime('%Y-%m-%d'), value]
+        day += dt.timedelta(days=1)
+
+    return df_res
+
+
 def df_is_in_daterange(
     row: pd.Series,
     date_range_df: pd.DataFrame,

@@ -104,4 +104,11 @@ add "+<n>d" to predict n days into the future'
 
     args: argparse.Namespace = parser.parse_args()
 
+    gdp_path: str = 'datasets/lists/gdp.csv'
+    gdp = pd.read_csv(gdp_path)
+
+    test_df: pd.DataFrame = pd.DataFrame(gdp, columns=['DATE', 'GDP_CHANGE'])
+
+    start_date: str = '1947-04-01'
+
     main(args)

@@ -46,14 +46,26 @@ def drop_col_if_exists(df: pd.DataFrame, col: str) -> pd.DataFrame:
     return df
 
 
-def expand_dates(df: pd.DataFrame):
-    day = dt.datetime(int(df['DATE'][0].split('-')[0]), 1, 1)
-    end_date = dt.datetime.now()
-    df_res: pd.DataFrame = pd.DataFrame(columns=df.columns)
-    value: float = 0.0
-    while day <= end_date:
+def expand_dates(
+    df: pd.DataFrame,
+    name: str,
+    log: bool = True
+) -> pd.DataFrame:
+    if not contains_all_cols(df, ['DATE'], log=False):
+        logger.Log(
+            'df_tools',
+            'Insufficient columns, DataFrame did not contain "DATE"'
+        ).critical(is_print=log)
+        return None
 
-        # Update the current GDP
+    df_res: pd.DataFrame = pd.DataFrame(name)
+
+    day = dt.datetime(int(df['DATE'][0].split('-')[0]), 1, 1)
+    end = dt.datetime.now()
+    value: float = 0.0
+    while day <= end:
+
+        # Update the current value
         new_value = df.loc[
             df['DATE'] == day.strftime('%Y-%m-%d'),
             df.iloc[:, 1]
@@ -63,7 +75,52 @@ def expand_dates(df: pd.DataFrame):
             value = new_value.tail(1).item()
 
         # Append new rows
-        df_res.loc[len(df_res)] = [day.strftime('%Y-%m-%d'), value]
+        df_res.loc[len(df_res)] = value
+        day += dt.timedelta(days=1)
+
+    return df_res
+
+
+def expand_date_range(
+    df: pd.DataFrame,
+    name: str,
+    log: bool = True
+) -> pd.DataFrame:
+    if not contains_all_cols(df, ['START_DATE', 'END_DATE'], log=False):
+        logger.Log(
+            'df_tools',
+            'Insufficient columns, DataFrame did \
+not contain "START_DATE" and "END_DATE"'
+        ).critical(is_print=log)
+        return None
+
+    df_res: pd.DataFrame = pd.DataFrame(columns=[name])
+
+    day = dt.datetime(int(df['START_DATE'][0].split('-')[0]), 1, 1)
+    end = dt.datetime.now()
+
+    crnt_start: dt.datetime = dt.datetime.now()
+    crnt_end: dt.datetime = dt.datetime.now()
+
+    while day <= end:
+
+        for _, row in df.iterrows():
+            start_date: dt.datetime = dt.datetime.strptime(
+                row['START_DATE'], '%Y-%m-%d'
+            )
+            end_date: dt.datetime = dt.datetime.strptime(
+                row['END_DATE'], '%Y-%m-%d'
+            )
+            if start_date == day:
+                crnt_start = start_date
+
+            if end_date == day:
+                crnt_end = end_date
+
+        # Append new rows
+        df_res.loc[len(df_res)] = [
+            crnt_start <= day < crnt_end
+        ]
         day += dt.timedelta(days=1)
 
     return df_res
@@ -83,8 +140,8 @@ def df_is_in_daterange(
     if not contains_all_cols(
         date_range_df,
         [
-            'start_date',
-            'end_date',
+            'START_DATE',
+            'END_DATE',
         ],
         log=False
     ):
@@ -96,8 +153,8 @@ contain a "start_date" and or "end_date" column'
         return False
 
     for _, df_row in date_range_df.iterrows():
-        start_date = dt.datetime.strptime(df_row['start_date'], '%Y-%m-%d')
-        end_date = dt.datetime.strptime(df_row['end_date'], '%Y-%m-%d')
+        start_date = dt.datetime.strptime(df_row['START_DATE'], '%Y-%m-%d')
+        end_date = dt.datetime.strptime(df_row['END_DATE'], '%Y-%m-%d')
 
         # Convert the "row['date]" type date into type datetime
         crnt_date = dt.datetime.combine(row['DATE'], dt.time())

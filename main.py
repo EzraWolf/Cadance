@@ -111,4 +111,7 @@ add "+<n>d" to predict n days into the future'
 
     start_date: str = '1947-04-01'
 
+    recessions = pd.read_csv('datasets/lists/recessions.csv')
+    a = utility.df_tools.expand_date_range(recessions, 'recessions')
+    a.to_csv('test.csv')
     main(args)

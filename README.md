@@ -1,4 +1,4 @@
-# Cadance V0.02
+# Cadance V0.03
 
 People typically say that you can't predict the stock market using past data,
 and they would be right under a certain lens. You will almost certainly never
